@@ -20,16 +20,16 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-const DB_NAME = 'dgkddtv7s40ni';
+const DB_NAME = 'sql8517608';
 
 /** Database username */
-const DB_USER = 'bjmwvkpiupmbxm';
+const DB_USER = 'sql8517608';
 
 /** Database password */
-const DB_PASSWORD = 'abfbb20f66541b84bafbb62244f9e42bf0072ad1978dbcf7516a2bf3072e8d50';
+const DB_PASSWORD = 'rrmNQcgLWW';
 
 /** Database hostname */
-const DB_HOST = 'ec2-44-209-158-64.compute-1.amazonaws.com';
+const DB_HOST = 'sql8.freesqldatabase.com';
 
 /** Database charset to use in creating database tables. */
 const DB_CHARSET = 'utf8mb4';
