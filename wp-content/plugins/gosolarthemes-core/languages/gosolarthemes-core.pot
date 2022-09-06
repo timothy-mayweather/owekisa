@@ -1,0 +1,6189 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gosolarthemes Core\n"
+"POT-Creation-Date: 2019-10-09 17:36+0530\n"
+"PO-Revision-Date: 2019-10-09 17:41+0530\n"
+"Last-Translator: \n"
+"Language-Team: zozothemes\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.7\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/ReduxCore/core/enqueue.php:452
+#: admin/ReduxCore/inc/extensions/customizer/extension_customizer.php:685
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: admin/ReduxCore/core/enqueue.php:460
+#: admin/ReduxCore/inc/extensions/customizer/extension_customizer.php:686
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: admin/ReduxCore/core/enqueue.php:468
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+#: admin/ReduxCore/core/enqueue.php:476
+#: admin/ReduxCore/inc/extensions/customizer/extension_customizer.php:687
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+
+#: admin/ReduxCore/core/enqueue.php:483
+msgid "Please Wait"
+msgstr ""
+
+#: admin/ReduxCore/core/enqueue.php:494
+msgid "There was an error saving. Here is the result of your action:"
+msgstr ""
+
+#: admin/ReduxCore/core/enqueue.php:495
+msgid ""
+"There was a problem with your action. Please try again or reload the page."
+msgstr ""
+
+#: admin/ReduxCore/core/panel.php:65
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: admin/ReduxCore/core/panel.php:141
+msgid "Settings Imported!"
+msgstr ""
+
+#: admin/ReduxCore/core/panel.php:156
+msgid "All Defaults Restored!"
+msgstr ""
+
+#: admin/ReduxCore/core/panel.php:170
+msgid "Section Defaults Restored!"
+msgstr ""
+
+#: admin/ReduxCore/core/panel.php:184
+msgid "Settings Saved!"
+msgstr ""
+
+#: admin/ReduxCore/core/panel.php:204
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: admin/ReduxCore/core/panel.php:212
+msgid "error(s) were found!"
+msgstr ""
+
+#: admin/ReduxCore/core/panel.php:220
+msgid "warning(s) were found!"
+msgstr ""
+
+#: admin/ReduxCore/core/panel.php:312
+msgid ""
+"<strong>Your panel has bundled outdated copies of Redux Framework template "
+"files</strong> &#8211; if you encounter functionality issues this could be "
+"the reason. Ensure you update or remove them."
+msgstr ""
+
+#: admin/ReduxCore/framework.php:215
+#, php-format
+msgid "Options panel created using %1$s"
+msgstr ""
+
+#: admin/ReduxCore/framework.php:215
+#: admin/ReduxCore/inc/welcome/welcome.php:205
+msgid "Redux Framework"
+msgstr ""
+
+#: admin/ReduxCore/framework.php:219 admin/ReduxCore/framework.php:223
+#: admin/theme-config/config.php:21
+msgid "Options"
+msgstr ""
+
+#: admin/ReduxCore/framework.php:1739
+msgid "Enable"
+msgstr ""
+
+#: admin/ReduxCore/framework.php:1744
+msgid "Disable"
+msgstr ""
+
+#: admin/ReduxCore/framework.php:1750
+msgid "moving the mouse over"
+msgstr ""
+
+#: admin/ReduxCore/framework.php:1752
+msgid "clicking"
+msgstr ""
+
+#: admin/ReduxCore/framework.php:1756
+#, php-format
+msgid ""
+"Hints are tooltips that popup when %d the hint icon, offering addition "
+"information about the field in which they appear.  They can be %d d by using "
+"the link below."
+msgstr ""
+
+#: admin/ReduxCore/framework.php:1761
+msgid "Hints"
+msgstr ""
+
+#: admin/ReduxCore/framework.php:1888 admin/theme-config/config.php:579
+#: admin/theme-config/config.php:1149 admin/theme-config/config.php:1161
+#: admin/theme-config/config.php:1173
+msgid "Default"
+msgstr ""
+
+#: admin/ReduxCore/framework.php:2766
+msgid "Invalid security credential.  Please reload the page and try again."
+msgstr ""
+
+#: admin/ReduxCore/framework.php:2775
+msgid "Invalid user capability.  Please reload the page and try again."
+msgstr ""
+
+#: admin/ReduxCore/framework.php:2855
+msgid "Your panel has no fields. Nothing to save."
+msgstr ""
+
+#: admin/ReduxCore/framework.php:3973
+msgid ""
+"<strong>Redux Framework Notice: </strong>There are references to the Redux "
+"Framework support site in your config's <code>admin_bar_links</code> "
+"argument.  This is sample data.  Please change or remove this data before "
+"shipping your product."
+msgstr ""
+
+#: admin/ReduxCore/framework.php:3988
+msgid ""
+"<strong>Redux Framework Notice: </strong>There are references to the Redux "
+"Framework support site in your config's <code>share_icons</code> argument.  "
+"This is sample data.  Please change or remove this data before shipping your "
+"product."
+msgstr ""
+
+#: admin/ReduxCore/inc/class.redux_admin_notices.php:97
+msgid "Dismiss"
+msgstr ""
+
+#: admin/ReduxCore/inc/class.redux_cdn.php:74
+msgid ""
+"Please wait a few minutes, then try refreshing the page. Unable to load some "
+"remotely hosted scripts."
+msgstr ""
+
+#: admin/ReduxCore/inc/class.redux_cdn.php:76
+#, php-format
+msgid ""
+"If you are developing offline, please download and install the <a href=\"%s"
+"\" target=\"_blank\">Redux Vendor Support</a> plugin/extension to bypass the "
+"our CDN and avoid this warning"
+msgstr ""
+
+#: admin/ReduxCore/inc/class.redux_cdn.php:81
+msgid "Redux Framework Warning"
+msgstr ""
+
+#: admin/ReduxCore/inc/class.redux_cdn.php:81
+#, php-format
+msgid "%s CDN unavailable.  Some controls may not render properly."
+msgstr ""
+
+#: admin/ReduxCore/inc/class.redux_cdn.php:113
+#, php-format
+msgid ""
+"The <a href=\"%s\">Vendor Support plugin</a> (or extension) is either not "
+"installed or not activated and thus, some controls may not render properly.  "
+"Please ensure that it is installed and <a href=\"%s\">activated</a>"
+msgstr ""
+
+#: admin/ReduxCore/inc/class.redux_filesystem.php:31
+#: admin/ReduxCore/inc/class.redux_filesystem.php:60
+#: admin/ReduxCore/inc/class.redux_filesystem.php:272
+msgid "File Permission Issues"
+msgstr ""
+
+#: admin/ReduxCore/inc/class.redux_filesystem.php:31
+#, php-format
+msgid ""
+"We were unable to modify required files. Please check your permissions, or "
+"modify your wp-config.php file to contain your FTP login credentials as <a "
+"href=\"%s\" target=\"_blank\">outlined here</a>."
+msgstr ""
+
+#: admin/ReduxCore/inc/class.redux_filesystem.php:60
+#: admin/ReduxCore/inc/class.redux_filesystem.php:272
+#, php-format
+msgid ""
+"We were unable to modify required files. Please ensure that <code>%1s</code> "
+"has the proper read-write permissions, or modify your wp-config.php file to "
+"contain your FTP login credentials as <a href=\"%2s\" target=\"_blank"
+"\">outlined here</a>."
+msgstr ""
+
+#: admin/ReduxCore/inc/class.redux_helpers.php:610
+#, php-format
+msgid ""
+"<code>%s</code> version <strong style=\"color:red\">%s</strong> is out of "
+"date. The core version is %s"
+msgstr ""
+
+#: admin/ReduxCore/inc/extensions/customizer/extension_customizer.php:720
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+
+#: admin/ReduxCore/inc/extensions/customizer/extension_customizer.php:721
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+
+#: admin/ReduxCore/inc/extensions/customizer/extension_customizer.php:722
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would "
+"you like to proceed?"
+msgstr ""
+
+#: admin/ReduxCore/inc/extensions/customizer/inc/customizer_panel.php:89
+msgid "Press return or enter to open this panel"
+msgstr ""
+
+#: admin/ReduxCore/inc/extensions/customizer/inc/customizer_panel.php:114
+#: admin/ReduxCore/inc/extensions/customizer/inc/customizer_panel.php:142
+#, php-format
+msgid "You are customizing %s"
+msgstr ""
+
+#: admin/ReduxCore/inc/extensions/customizer/inc/customizer_panel.php:138
+#: admin/ReduxCore/inc/extensions/customizer/inc/customizer_section.php:79
+msgid "Back"
+msgstr ""
+
+#: admin/ReduxCore/inc/extensions/customizer/inc/customizer_panel.php:146
+msgid "Help"
+msgstr ""
+
+#: admin/ReduxCore/inc/extensions/customizer/inc/customizer_section.php:72
+msgid "Press return or enter to open"
+msgstr ""
+
+#: admin/ReduxCore/inc/extensions/customizer/inc/customizer_section.php:122
+msgid "Press return or enter to expand"
+msgstr ""
+
+#: admin/ReduxCore/inc/extensions/import_export/extension_import_export.php:122
+msgid "Import / Export"
+msgstr ""
+
+#: admin/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:91
+msgid "Import Options"
+msgstr ""
+
+#: admin/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:95
+msgid "Import from File"
+msgstr ""
+
+#: admin/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:98
+msgid "Import from URL"
+msgstr ""
+
+#: admin/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:104
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: admin/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:111
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: admin/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:116
+msgid "Import"
+msgstr ""
+
+#: admin/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:116
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+
+#: admin/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:120
+msgid "Export Options"
+msgstr ""
+
+#: admin/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:124
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+
+#: admin/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:132
+msgid "Copy Data"
+msgstr ""
+
+#: admin/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:133
+msgid "Download Data File"
+msgstr ""
+
+#: admin/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:134
+msgid "Copy Export URL"
+msgstr ""
+
+#: admin/ReduxCore/inc/extensions/options_object/extension_options_object.php:82
+#: admin/ReduxCore/inc/extensions/options_object/options_object/field_options_object.php:104
+msgid "Options Object"
+msgstr ""
+
+#: admin/ReduxCore/inc/extensions/options_object/options_object/field_options_object.php:107
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/background/field_background.php:124
+#: admin/ReduxCore/inc/fields/color/field_color.php:73
+#: admin/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:79
+#: admin/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:91
+#: admin/theme-config/config.php:569 admin/theme-config/config.php:2065
+#: widgets/social_link_widget.php:327
+msgid "Transparent"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/background/field_background.php:141
+#: admin/theme-config/config.php:1241 tinymce/config.php:2043
+#: tinymce/config.php:4488
+msgid "Background Repeat"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/background/field_background.php:157
+msgid "Background Clip"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/background/field_background.php:173
+msgid "Background Origin"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/background/field_background.php:188
+msgid "Background Size"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/background/field_background.php:203
+#: tinymce/config.php:4512
+msgid "Background Attachment"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/background/field_background.php:223
+#: admin/theme-config/config.php:1256
+msgid "Background Position"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/background/field_background.php:277
+#: admin/ReduxCore/inc/fields/media/field_media.php:149
+msgid "No media selected"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/background/field_background.php:314
+#: admin/ReduxCore/inc/fields/media/field_media.php:198
+#: admin/ReduxCore/inc/fields/slides/field_slides.php:126
+#: admin/ReduxCore/inc/fields/slides/field_slides.php:188
+msgid "Upload"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/background/field_background.php:321
+#: admin/ReduxCore/inc/fields/media/field_media.php:205
+#: admin/ReduxCore/inc/fields/multi_text/field_multi_text.php:72
+#: admin/ReduxCore/inc/fields/multi_text/field_multi_text.php:79
+#: admin/ReduxCore/inc/fields/multi_text/field_multi_text.php:89
+#: admin/ReduxCore/inc/fields/slides/field_slides.php:133
+#: admin/ReduxCore/inc/fields/slides/field_slides.php:190
+msgid "Remove"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/border/field_border.php:125
+#: admin/ReduxCore/inc/fields/spacing/field_spacing.php:191
+msgid "All"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/border/field_border.php:138
+#: admin/ReduxCore/inc/fields/spacing/field_spacing.php:215
+msgid "Top"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/border/field_border.php:145
+#: admin/ReduxCore/inc/fields/spacing/field_spacing.php:222
+#: admin/theme-config/config.php:1174 widgets/social_link_widget.php:293
+msgid "Right"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/border/field_border.php:152
+#: admin/ReduxCore/inc/fields/spacing/field_spacing.php:229
+msgid "Bottom"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/border/field_border.php:159
+#: admin/ReduxCore/inc/fields/spacing/field_spacing.php:236
+#: admin/theme-config/config.php:1383 widgets/social_link_widget.php:291
+msgid "Left"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/border/field_border.php:174
+msgid "Border style"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:68
+msgid "From "
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:82
+msgid "To "
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/dimensions/field_dimensions.php:162
+#: tinymce/config.php:3583
+msgid "Width"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/dimensions/field_dimensions.php:178
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:442
+#: tinymce/config.php:3595
+msgid "Height"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/dimensions/field_dimensions.php:189
+#: admin/ReduxCore/inc/fields/dimensions/field_dimensions.php:190
+#: admin/ReduxCore/inc/fields/spacing/field_spacing.php:245
+#: admin/ReduxCore/inc/fields/spacing/field_spacing.php:246
+msgid "Units"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/gallery/field_gallery.php:73
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/gallery/field_gallery.php:74
+msgid "Clear Gallery"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/link_color/field_link_color.php:88
+msgid "Regular"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/link_color/field_link_color.php:92
+msgid "Hover"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/link_color/field_link_color.php:96
+msgid "Visited"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/link_color/field_link_color.php:100
+msgid "Active"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/multi_text/field_multi_text.php:62
+msgid "Add More"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/password/field_password.php:62
+msgid "Password"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/password/field_password.php:63
+#: widgets/instagram_widget.php:101
+msgid "Username"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/select/field_select.php:83
+#: admin/ReduxCore/inc/fields/select_image/field_select_image.php:63
+msgid "Select an item"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/select/field_select.php:134
+#: admin/ReduxCore/inc/fields/select_image/field_select_image.php:144
+msgid "No items of this type were found."
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/slides/field_slides.php:68
+msgid "Slide"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/slides/field_slides.php:73
+#: admin/ReduxCore/inc/fields/slides/field_slides.php:174
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/slides/field_slides.php:145
+#: admin/ReduxCore/inc/fields/slides/field_slides.php:200
+#: tinymce/config.php:1891 tinymce/config.php:2013 tinymce/config.php:2681
+#: tinymce/config.php:2881 widgets/instagram_widget.php:92
+msgid "Title"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/slides/field_slides.php:149
+#: admin/ReduxCore/inc/fields/slides/field_slides.php:204
+#: tinymce/config.php:4157
+msgid "Description"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/slides/field_slides.php:153
+#: admin/ReduxCore/inc/fields/slides/field_slides.php:207
+msgid "URL"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/slides/field_slides.php:167
+#: admin/ReduxCore/inc/fields/slides/field_slides.php:220
+msgid "Delete"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/slides/field_slides.php:223
+#, php-format
+msgid "Add %s"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/switch/field_switch.php:41
+#: admin/theme-config/config.php:540 admin/theme-config/config.php:1079
+#: admin/theme-config/config.php:1090 admin/theme-config/config.php:1101
+msgid "On"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/switch/field_switch.php:44
+#: admin/theme-config/config.php:400 admin/theme-config/config.php:422
+#: admin/theme-config/config.php:540 admin/theme-config/config.php:1080
+#: admin/theme-config/config.php:1091 admin/theme-config/config.php:1102
+msgid "Off"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:231
+msgid "Font Family"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:232
+msgid "Font family"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:258
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:259
+msgid "Backup Font Family"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:273
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:281
+msgid "Font style"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:274
+msgid "Font Weight &amp; Style"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:281
+msgid "Style"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:321
+msgid "Font subsets"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:323
+msgid "Font Subsets"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:325
+msgid "Subsets"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:325
+msgid "Font script"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:342
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:343
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:344
+msgid "Text Align"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:365
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:366
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:367
+msgid "Text Transform"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:388
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:389
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:390
+msgid "Font Variant"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:408
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:409
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:410
+msgid "Text Decoration"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:432
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:433
+msgid "Font Size"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:433
+msgid "Size"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:441
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:442
+msgid "Line Height"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:450
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:451
+msgid "Word Spacing"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:459
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:460
+msgid "Letter Spacing"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:478
+msgid "Font Color"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:480
+msgid "Font color"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:890
+msgid "Standard Fonts"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:991
+msgid "Google Webfonts"
+msgstr ""
+
+#: admin/ReduxCore/inc/themecheck/checks/embedded.php:15
+#, php-format
+msgid ""
+"<span class=\"tc-lead tc-recommended\">RECOMMENDED</span>: If you are "
+"submitting to WordPress.org Theme Repository, it is <strong>strongly</"
+"strong> suggested that you read <a href=\"%s\" target=\"_blank\">this "
+"document</a>, or your theme will be rejected because of Redux."
+msgstr ""
+
+#: admin/ReduxCore/inc/themecheck/checks/embedded.php:24
+#, php-format
+msgid ""
+"<span class=\"tc-lead tc-required\">REQUIRED</span>: You MUST delete "
+"<strong> %s </strong>, or your theme will be rejected by WP.org theme "
+"submission because of Redux."
+msgstr ""
+
+#: admin/ReduxCore/inc/themecheck/checks/embedded.php:38
+msgid "Optional"
+msgstr ""
+
+#: admin/ReduxCore/inc/themecheck/checks/embedded.php:40
+msgid ""
+"<span class=\"tc-lead tc-recommended\">RECOMMENDED</span>: The following "
+"arguments MUST be used for WP.org submissions, or you will be rejected "
+"because of your Redux configuration."
+msgstr ""
+
+#: admin/ReduxCore/inc/themecheck/checks/full_package.php:16
+msgid "Redux localization utilities"
+msgstr ""
+
+#: admin/ReduxCore/inc/themecheck/checks/full_package.php:17
+msgid "Redux Resting Diles"
+msgstr ""
+
+#: admin/ReduxCore/inc/themecheck/checks/full_package.php:18
+msgid "Redux Code Styles"
+msgstr ""
+
+#: admin/ReduxCore/inc/themecheck/checks/full_package.php:19
+msgid "Redux Unit Testing"
+msgstr ""
+
+#: admin/ReduxCore/inc/themecheck/checks/full_package.php:20
+msgid "Redux Plugin File"
+msgstr ""
+
+#: admin/ReduxCore/inc/themecheck/checks/full_package.php:21
+msgid "Redux Boostrap Tests"
+msgstr ""
+
+#: admin/ReduxCore/inc/themecheck/checks/full_package.php:22
+msgid "CI Testing FIle"
+msgstr ""
+
+#: admin/ReduxCore/inc/themecheck/checks/full_package.php:23
+msgid "PHP Unit Testing"
+msgstr ""
+
+#: admin/ReduxCore/inc/themecheck/checks/full_package.php:36
+msgid ""
+"It appears that you have embedded the full Redux package inside your theme. "
+"You need only embed the <strong>ReduxCore</strong> folder. Embedding "
+"anything else will get your rejected from theme submission. Suspected Redux "
+"package file(s):"
+msgstr ""
+
+#: admin/ReduxCore/inc/tracking.php:129
+msgid "Help improve Our Panel"
+msgstr ""
+
+#: admin/ReduxCore/inc/tracking.php:130
+msgid ""
+"Please helps us improve our panel by allowing us to gather anonymous usage "
+"stats so we know which configurations, plugins and themes to test to ensure "
+"compatibility."
+msgstr ""
+
+#: admin/ReduxCore/inc/tracking.php:135
+msgid "Allow tracking"
+msgstr ""
+
+#: admin/ReduxCore/inc/tracking.php:140
+msgid "Do not allow tracking"
+msgstr ""
+
+#: admin/ReduxCore/inc/tracking.php:151
+msgid "Welcome to the Redux Demo Panel"
+msgstr ""
+
+#: admin/ReduxCore/inc/tracking.php:152
+msgid "Getting Started"
+msgstr ""
+
+#: admin/ReduxCore/inc/tracking.php:152
+#, php-format
+msgid ""
+"This panel demonstrates the many features of Redux.  Before digging in, we "
+"suggest you get up to speed by reviewing %1$s."
+msgstr ""
+
+#: admin/ReduxCore/inc/tracking.php:152
+msgid "our documentation"
+msgstr ""
+
+#: admin/ReduxCore/inc/tracking.php:153
+msgid "Redux Generator"
+msgstr ""
+
+#: admin/ReduxCore/inc/tracking.php:153
+#, php-format
+msgid ""
+"Want to get a head start? Use the %1$s. It will create a customized "
+"boilerplate theme or a standalone admin folder complete with all things "
+"Redux (with the help of Underscores and TGM). Save yourself a headache and "
+"try it today."
+msgstr ""
+
+#: admin/ReduxCore/inc/tracking.php:154
+#: admin/ReduxCore/inc/welcome/welcome.php:229
+msgid "Redux Extensions"
+msgstr ""
+
+#: admin/ReduxCore/inc/tracking.php:154
+#, php-format
+msgid ""
+"Did you know we have extensions, which greatly enhance the features of "
+"Redux?  Visit our %1$s to learn more!"
+msgstr ""
+
+#: admin/ReduxCore/inc/tracking.php:154
+msgid "extensions directory"
+msgstr ""
+
+#: admin/ReduxCore/inc/tracking.php:155
+msgid "Like Redux?"
+msgstr ""
+
+#: admin/ReduxCore/inc/tracking.php:155
+#, php-format
+msgid ""
+"If so, please %1$s and consider making a %2$s to keep development of Redux "
+"moving forward."
+msgstr ""
+
+#: admin/ReduxCore/inc/tracking.php:155
+msgid "leave us a favorable review on WordPress.org"
+msgstr ""
+
+#: admin/ReduxCore/inc/tracking.php:155
+msgid "donation"
+msgstr ""
+
+#: admin/ReduxCore/inc/tracking.php:156
+msgid "Newsletter"
+msgstr ""
+
+#: admin/ReduxCore/inc/tracking.php:156
+msgid ""
+"If you'd like to keep up to with all things Redux, please subscribe to our "
+"newsletter"
+msgstr ""
+
+#: admin/ReduxCore/inc/tracking.php:157
+msgid "Email address"
+msgstr ""
+
+#: admin/ReduxCore/inc/tracking.php:157
+msgid "Subscribe"
+msgstr ""
+
+#: admin/ReduxCore/inc/tracking.php:166
+msgid "Close"
+msgstr ""
+
+#: admin/ReduxCore/inc/validation/color/validation_color.php:15
+#: admin/ReduxCore/inc/validation/color_rgba/validation_color_rgba.php:14
+#: admin/ReduxCore/inc/validation/colorrgba/validation_colorrgba.php:16
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: admin/ReduxCore/inc/validation/comma_numeric/validation_comma_numeric.php:16
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: admin/ReduxCore/inc/validation/css/validation_css.php:39
+msgid "Unsafe strings were found in your CSS and have been filtered out."
+msgstr ""
+
+#: admin/ReduxCore/inc/validation/date/validation_date.php:16
+msgid "This field must be a valid date."
+msgstr ""
+
+#: admin/ReduxCore/inc/validation/email/validation_email.php:16
+#: admin/ReduxCore/inc/validation/email_not_empty/validation_email_not_empty.php:16
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: admin/ReduxCore/inc/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: admin/ReduxCore/inc/validation/no_special_chars/validation_no_special_chars.php:16
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: admin/ReduxCore/inc/validation/not_empty/validation_not_empty.php:16
+msgid "This field cannot be empty. Please provide a value."
+msgstr ""
+
+#: admin/ReduxCore/inc/validation/numeric/validation_numeric.php:16
+#: admin/ReduxCore/inc/validation/numeric_not_empty/validation_numeric_not_empty.php:16
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: admin/ReduxCore/inc/validation/unique_slug/validation_unique_slug.php:16
+#, php-format
+msgid ""
+"That URL slug is in use, please choose another. <code>%s</code> is open for "
+"use."
+msgstr ""
+
+#: admin/ReduxCore/inc/validation/url/validation_url.php:16
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/about.php:2
+#, php-format
+msgid "Welcome to Redux Framework %s"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/about.php:5
+#, php-format
+msgid ""
+"Thank you for updating to the latest version! Redux Framework %s is a huge "
+"step forward in Redux Development. Look at all that's new."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/about.php:8
+#: admin/ReduxCore/inc/welcome/views/changelog.php:10
+#: admin/ReduxCore/inc/welcome/views/credits.php:10
+#: admin/ReduxCore/inc/welcome/views/extensions.php:81
+#: admin/ReduxCore/inc/welcome/views/status_report.php:34
+#: admin/ReduxCore/inc/welcome/views/support.php:8
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/about.php:15
+msgid "What is Redux Framework?"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/about.php:17
+msgid ""
+"Redux Framework is the core of many products on the web. It is an option "
+"framework which developers use to\n"
+"            enhance their products."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/about.php:22
+msgid "Learn More"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/about.php:28
+msgid "New in this Release"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/changelog.php:2
+msgid "Redux Framework - Changelog"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/changelog.php:5
+#: admin/ReduxCore/inc/welcome/views/status_report.php:30
+msgid ""
+"Our core mantra at Redux is backwards compatibility. With hundreds of "
+"thousands of instances worldwide, you can be assured that we will take care "
+"of you and your clients."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/credits.php:2
+msgid "Redux Framework - A Community Effort"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/credits.php:5
+msgid ""
+"We recognize we are nothing without our community. We would like to thank "
+"all of those who help Redux to be what it is. Thank you for your involvement."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/credits.php:18
+#, php-format
+msgid ""
+"Redux is created by a community of developers world wide. Want to have your "
+"name listed too? <a href=\"%d\" target=\"_blank\">Contribute to Redux</a>."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/extensions.php:73
+msgid "Redux Framework - Extensions"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/extensions.php:76
+msgid ""
+"Supercharge your Redux experience. Our extensions provide you with features "
+"that will take your products to the next level."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/extensions.php:89
+msgid ""
+"While some are built specificially for developers, extensions such as Custom "
+"Fonts are sure to make any user happy."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:26
+msgid "Redux Framework - System Status"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:43
+msgid ""
+"Please copy and paste this information in your ticket when contacting "
+"support:"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:48
+msgid "Get System Report"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:53
+msgid "Understanding the Status Report"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:62
+msgid "Copied!"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:63
+msgid "Copy for Support"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:73
+msgid "WordPress Environment"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:80
+msgid "Home URL"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:83
+msgid "The URL of your site's homepage."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:89
+msgid "Site URL"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:92
+msgid "The root URL of your site."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:100
+msgid "Redux Version"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:103
+msgid "The version of Redux Framework installed on your site."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:111
+msgid "Redux Data Directory Writable"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:114
+msgid ""
+"Redux and its extensions write data to the <code>uploads</code> directory. "
+"This directory must be writable."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:120
+#, php-format
+msgid "To allow data saving, make <code>%s</code> writable."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:126
+msgid "WP Content URL"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:129
+msgid "The location of Wordpress's content URL."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:137
+msgid "WP Version"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:140
+msgid "The version of WordPress installed on your site."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:148
+msgid "WP Multisite"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:151
+msgid "Whether or not you have WordPress Multisite enabled."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:162
+msgid "Permalink Structure"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:165
+msgid ""
+"The current permalink structure as defined in Wordpress Settings->Permalinks."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:174
+msgid "Front Page Display"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:176
+msgid "The current Reading mode of Wordpress."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:185
+msgid "Front Page"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:188
+msgid "The currently selected page which acts as the site's Front Page."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:196
+msgid "Posts Page"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:199
+msgid "The currently selected page in where blog posts are displayed."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:210
+msgid "WP Memory Limit"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:213
+msgid "The maximum amount of memory (RAM) that your site can use at one time."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:220
+#, php-format
+msgid ""
+"%s - We recommend setting memory to at least 40MB. See: <a href=\"%s\" "
+"target=\"_blank\">Increasing memory allocated to PHP</a>"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:229
+msgid "Database Table Prefix"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:232
+msgid "The prefix structure of the current Wordpress database."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:240
+msgid "WP Debug Mode"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:243
+msgid "Displays whether or not WordPress is in Debug Mode."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:255
+msgid "Language"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:258
+msgid "The current language used by WordPress. Default = English"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:270
+msgid "Browser"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:277
+msgid "Browser Info"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:280
+msgid "Information about web browser current in use."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:297
+msgid "Server Environment"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:304
+msgid "Server Info"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:307
+msgid "Information about the web server that is currently hosting your site."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:315
+msgid "Localhost Environment"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:318
+msgid "Is the server running in a localhost environment."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:332
+msgid "PHP Version"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:335
+msgid "The version of PHP installed on your hosting server."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:343
+msgid "ABSPATH"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:346
+msgid "The ABSPATH variable on the server."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:355
+msgid "PHP Memory Limit"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:356
+#: admin/ReduxCore/inc/welcome/views/status_report.php:361
+msgid "The largest filesize that can be contained in one post."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:360
+msgid "PHP Post Max Size"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:365
+msgid "PHP Time Limit"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:366
+msgid ""
+"The amount of time (in seconds) that your site will spend on a single "
+"operation before timing out (to avoid server lockups)"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:370
+msgid "PHP Max Input Vars"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:371
+msgid ""
+"The maximum number of variables your server can use for a single function to "
+"avoid overloads."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:375
+msgid "PHP Display Errors"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:376
+msgid "Determines if PHP will display errors within the browser."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:387
+msgid "SUHOSIN Installed"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:388
+msgid ""
+"Suhosin is an advanced protection system for PHP installations. It was "
+"designed to protect your servers on the one hand against a number of well "
+"known problems in PHP applications and on the other hand against potential "
+"unknown vulnerabilities within these applications or the PHP core itself.  "
+"If enabled on your server, Suhosin may need to be configured to increase its "
+"data submission limits."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:399
+msgid "MySQL Version"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:400
+msgid "The version of MySQL installed on your hosting server."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:404
+msgid "Max Upload Size"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:405
+msgid ""
+"The largest filesize that can be uploaded to your WordPress installation."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:410
+msgid "Default Timezone is UTC"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:412
+msgid "The default timezone for your server."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:416
+#, php-format
+msgid "Default timezone is %s - it should be UTC"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:428
+msgid "Used when communicating with remote services with PHP."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:434
+msgid ""
+"Your server does not have fsockopen or cURL enabled - cURL is used to "
+"communicate with other servers. Please contact your hosting provider."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:473
+msgid "Remote Post"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:474
+msgid "Used to send data to remote servers."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:479
+msgid ""
+"wp_remote_post() failed. Many advanced features may not function. Contact "
+"your hosting provider."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:482
+#: admin/ReduxCore/inc/welcome/views/status_report.php:497
+#, php-format
+msgid "Error: %s"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:489
+msgid "Remote Get"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:490
+msgid "Used to grab information from remote servers for updates updates."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:495
+msgid ""
+"wp_remote_get() failed. This is needed to get information from remote "
+"servers. Contact your hosting provider."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:531
+msgid "Active Plugins"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:546
+msgid "Visit plugin homepage"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:553
+#, php-format
+msgctxt "by author"
+msgid "by %s"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:572
+msgid "Redux Instance: "
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:579
+msgid "The opt_name argument for this instance of Redux."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:587
+msgid "The global_variable argument for this instance of Redux."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:595
+msgid "Indicates if developer mode is enabled for this instance of Redux."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:600
+msgid "Indicates if ajax based saving is enabled for this instance of Redux."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:605
+msgid ""
+"The page slug denotes the string used for the options panel page for this "
+"instance of Redux."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:610
+msgid ""
+"The page permissions variable sets the permission level required to access "
+"the options panel for this instance of Redux."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:615
+msgid ""
+"This variable set whether or not the menu is displayed as an admin menu item "
+"for this instance of Redux."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:620
+msgid ""
+"The page parent variable sets where the options menu will be placed on the "
+"WordPress admin sidebar for this instance of Redux."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:626
+msgid "Indicates if the compiler flag is enabled for this instance of Redux."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:631
+msgid ""
+"Indicates if output flag for globally shutting off all CSS output is enabled "
+"for this instance of Redux."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:636
+msgid ""
+"The output_tag variable sets whether or not dynamic CSS will be generated "
+"for the customizer and Google fonts for this instance of Redux."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:645
+msgid ""
+"The specified template path containing custom template files for this "
+"instance of Redux."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:650
+msgid "List of template files overriding the default Redux template files."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:676
+msgid "Indicates the installed Redux extensions and their version numbers."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:705
+msgid "Theme"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:710
+msgid "Name"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:711
+msgid "The name of the current active theme."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:715
+msgid "Version"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:716
+msgid "The installed version of the current active theme."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:722
+msgid "is available"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:728
+msgid "Author URL"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:729
+msgid "The theme developers URL."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:733
+msgid "Child Theme"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:734
+msgid "Displays whether or not the current theme is a child theme."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:737
+#, php-format
+msgid ""
+"If you're modifying Redux Framework or a parent theme you didn't build "
+"personally, we recommend using a child theme. See: <a href=\"%s\" target="
+"\"_blank\">How to create a child theme</a>"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:745
+msgid "Parent Theme Name"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:747
+msgid "The name of the parent theme."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:752
+msgid "Parent Theme Version"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:754
+msgid "The installed version of the parent theme."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:759
+msgid "Parent Theme Author URL"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:761
+msgid "The parent theme developers URL."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/support.php:2
+msgid "Redux Framework - Support"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/support.php:4
+msgid ""
+"We are an open source project used by developers to make powerful control "
+"panels."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/support.php:19
+#: admin/ReduxCore/inc/welcome/views/support.php:40
+msgid "Generate a Support URL"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/support.php:20
+msgid "Select Support Type"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/support.php:21
+#: admin/ReduxCore/inc/welcome/views/support.php:87
+msgid "How to Get Support"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/support.php:27
+msgid "Submit a Support Request"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/support.php:31
+msgid "To get started, we will need to generate a support hash."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/support.php:35
+#, php-format
+msgid ""
+"This will provide to your developer all the information they may need to "
+"remedy your issue. This action WILL send information securely to a remote "
+"server. To see the type of information sent, please look at the  <a href=\"%s"
+"\">Status tab</a>."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/support.php:52
+msgid "Select Your Support Type"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/support.php:56
+msgid "What type of user are you?"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/support.php:63
+msgid "User"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/support.php:65
+msgid "I am a user, using a pre-built product."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/support.php:70
+msgid "Developer"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/support.php:72
+msgid "I am a developer, building a product using Redux."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/support.php:92
+msgid ""
+"Please proceed to the Redux Framework issue tracker and supply us with your "
+"support URL below. Please also provide any information that will help us to "
+"reproduce your issue."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/support.php:101
+msgid ""
+"Listed below are the Wordpress plugins and/or theme installed on your site "
+"that utilize Redux Framework. We do not directly support products created "
+"with our framework.  It is the responsibility of the plugin or theme "
+"developer to support their work. You will need to contact the author(s) of "
+"the products listed below with your support questions."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/support.php:105
+msgid ""
+"Please be sure to include for your developer - via cut and paste - the "
+"Support URL in the box below."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/support.php:134
+#, php-format
+msgid ""
+"Should the developer not be responsive, read the <a href=\"%s\" target="
+"\"_blank\">following article</a> before asking for support from us directly."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/welcome.php:106
+msgid ""
+"If you like <strong>Redux</strong> please leave us a <a href=\"https://"
+"wordpress.org/support/view/plugin-reviews/redux-framework?filter=5#postform"
+"\" target=\"_blank\" class=\"redux-rating-link\" data-rated="
+"\"Thanks :)\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> rating. A huge thank "
+"you from Redux in advance!"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/welcome.php:183
+msgid "Support hash could not be generated. Please try again later."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/welcome.php:205
+msgid "Welcome to Redux Framework"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/welcome.php:213
+msgid "Redux Framework Changelog"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/welcome.php:221
+msgid "Get Support"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/welcome.php:238
+msgid "The people that develop Redux Framework"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/welcome.php:246
+msgid "Redux Framework Status"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/welcome.php:346
+msgid "What's New"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/welcome.php:349
+msgid "Extensions"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/welcome.php:352
+msgid "Changelog"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/welcome.php:355
+msgid "Credits"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/welcome.php:358
+#: admin/theme-config/config.php:130
+msgid "Support"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/welcome.php:361
+msgid "Status"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/welcome.php:521
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: admin/ReduxCore/templates/panel/footer.tpl.php:57
+#: admin/ReduxCore/templates/panel/header_stickybar.tpl.php:21
+msgid "Save Changes"
+msgstr ""
+
+#: admin/ReduxCore/templates/panel/footer.tpl.php:61
+#: admin/ReduxCore/templates/panel/header_stickybar.tpl.php:25
+msgid "Reset Section"
+msgstr ""
+
+#: admin/ReduxCore/templates/panel/footer.tpl.php:62
+#: admin/ReduxCore/templates/panel/header_stickybar.tpl.php:26
+msgid "Reset All"
+msgstr ""
+
+#: admin/ReduxCore/templates/panel/footer.tpl.php:67
+#: admin/ReduxCore/templates/panel/header_stickybar.tpl.php:29
+msgid "Working..."
+msgstr ""
+
+#: admin/ReduxCore/templates/panel/header.tpl.php:11
+#: admin/ReduxCore/templates/panel/header.tpl.php:49
+msgid "Developer Mode Enabled"
+msgstr ""
+
+#: admin/ReduxCore/templates/panel/header.tpl.php:20
+msgid "WP_DEBUG is enabled"
+msgstr ""
+
+#: admin/ReduxCore/templates/panel/header.tpl.php:26
+msgid "you are working in a localhost environment"
+msgstr ""
+
+#: admin/ReduxCore/templates/panel/header.tpl.php:31
+msgid "and"
+msgstr ""
+
+#: admin/ReduxCore/templates/panel/header.tpl.php:34
+msgid "This has been automatically enabled because"
+msgstr ""
+
+#: admin/ReduxCore/templates/panel/header.tpl.php:36
+msgid ""
+"If you are not a developer, your theme/plugin author shipped with developer "
+"mode enabled. Contact them directly to fix it."
+msgstr ""
+
+#: admin/ReduxCore/templates/panel/header.tpl.php:58
+msgid "FORCED DEV MODE OFF ENABLED"
+msgstr ""
+
+#: admin/ReduxCore/templates/panel/header_stickybar.tpl.php:15
+msgid "Expand"
+msgstr ""
+
+#: admin/theme-config/config.php:29 admin/theme-config/config.php:30
+msgid "Theme Options"
+msgstr ""
+
+#: admin/theme-config/config.php:126
+msgid "Documentation"
+msgstr ""
+
+#: admin/theme-config/config.php:139
+msgid ""
+"Did you know that GoSolar Theme sets a global variable for you? To access "
+"any of your saved options from within your code you can use your global "
+"variable:"
+msgstr ""
+
+#: admin/theme-config/config.php:141
+msgid ""
+"This text is displayed above the options panel. It isn't required, but more "
+"info is always better! The intro_text field accepts all HTML."
+msgstr ""
+
+#: admin/theme-config/config.php:155
+msgid "Theme Information 1"
+msgstr ""
+
+#: admin/theme-config/config.php:156 admin/theme-config/config.php:161
+msgid "This is the tab content, HTML is allowed."
+msgstr ""
+
+#: admin/theme-config/config.php:160
+msgid "Theme Information 2"
+msgstr ""
+
+#: admin/theme-config/config.php:166
+msgid "This is the sidebar content, HTML is allowed."
+msgstr ""
+
+#: admin/theme-config/config.php:181
+msgid "General"
+msgstr ""
+
+#: admin/theme-config/config.php:189
+msgid "Disable Page Loader"
+msgstr ""
+
+#: admin/theme-config/config.php:191 admin/theme-config/config.php:208
+#: admin/theme-config/config.php:217 admin/theme-config/config.php:227
+#: admin/theme-config/config.php:523 admin/theme-config/config.php:531
+#: admin/theme-config/config.php:909 admin/theme-config/config.php:1049
+#: admin/theme-config/config.php:1121 admin/theme-config/config.php:1130
+#: admin/theme-config/config.php:1139 admin/theme-config/config.php:1281
+#: admin/theme-config/config.php:1323 admin/theme-config/config.php:1338
+#: admin/theme-config/config.php:1346 admin/theme-config/config.php:1366
+#: admin/theme-config/config.php:1949 admin/theme-config/config.php:2280
+#: admin/theme-config/config.php:2288 admin/theme-config/config.php:2346
+#: admin/theme-config/config.php:2362 admin/theme-config/config.php:2371
+#: admin/theme-config/config.php:2380 admin/theme-config/config.php:2458
+#: admin/theme-config/config.php:2472 admin/theme-config/config.php:2480
+#: admin/theme-config/config.php:2488 admin/theme-config/config.php:2566
+#: admin/theme-config/config.php:2580 admin/theme-config/config.php:2588
+#: admin/theme-config/config.php:2596 admin/theme-config/config.php:2615
+#: admin/theme-config/config.php:2663 admin/theme-config/config.php:2691
+#: admin/theme-config/config.php:2699 admin/theme-config/config.php:2707
+#: admin/theme-config/config.php:2715 admin/theme-config/config.php:2723
+#: admin/theme-config/config.php:2731 admin/theme-config/config.php:2785
+#: admin/theme-config/config.php:2802 admin/theme-config/config.php:2861
+#: admin/theme-config/config.php:2892 admin/theme-config/config.php:2900
+#: admin/theme-config/config.php:2908 admin/theme-config/config.php:2922
+#: admin/theme-config/config.php:2944 admin/theme-config/config.php:2960
+#: admin/theme-config/config.php:2997 admin/theme-config/config.php:3006
+#: admin/theme-config/config.php:3015 admin/theme-config/config.php:3029
+#: admin/theme-config/config.php:3049 admin/theme-config/config.php:3063
+#: admin/theme-config/config.php:3095 admin/theme-config/config.php:3103
+#: admin/theme-config/config.php:3149 admin/theme-config/config.php:3163
+#: admin/theme-config/config.php:3195 admin/theme-config/config.php:3203
+#: admin/theme-config/config.php:3265 admin/theme-config/config.php:3273
+#: admin/theme-config/config.php:3281 admin/theme-config/config.php:3289
+#: admin/theme-config/config.php:3297 admin/theme-config/config.php:3305
+#: admin/theme-config/config.php:3313 admin/theme-config/config.php:3321
+#: admin/theme-config/config.php:3441 admin/theme-config/config.php:3508
+#: admin/theme-config/config.php:3516 admin/theme-config/config.php:3534
+#: admin/theme-config/config.php:3543 admin/theme-config/config.php:3552
+msgid "Yes"
+msgstr ""
+
+#: admin/theme-config/config.php:192 admin/theme-config/config.php:209
+#: admin/theme-config/config.php:218 admin/theme-config/config.php:228
+#: admin/theme-config/config.php:524 admin/theme-config/config.php:532
+#: admin/theme-config/config.php:910 admin/theme-config/config.php:1050
+#: admin/theme-config/config.php:1122 admin/theme-config/config.php:1131
+#: admin/theme-config/config.php:1140 admin/theme-config/config.php:1282
+#: admin/theme-config/config.php:1324 admin/theme-config/config.php:1339
+#: admin/theme-config/config.php:1347 admin/theme-config/config.php:1367
+#: admin/theme-config/config.php:1950 admin/theme-config/config.php:2281
+#: admin/theme-config/config.php:2289 admin/theme-config/config.php:2347
+#: admin/theme-config/config.php:2363 admin/theme-config/config.php:2372
+#: admin/theme-config/config.php:2381 admin/theme-config/config.php:2459
+#: admin/theme-config/config.php:2473 admin/theme-config/config.php:2481
+#: admin/theme-config/config.php:2489 admin/theme-config/config.php:2567
+#: admin/theme-config/config.php:2581 admin/theme-config/config.php:2589
+#: admin/theme-config/config.php:2597 admin/theme-config/config.php:2616
+#: admin/theme-config/config.php:2664 admin/theme-config/config.php:2692
+#: admin/theme-config/config.php:2700 admin/theme-config/config.php:2708
+#: admin/theme-config/config.php:2716 admin/theme-config/config.php:2724
+#: admin/theme-config/config.php:2732 admin/theme-config/config.php:2786
+#: admin/theme-config/config.php:2803 admin/theme-config/config.php:2862
+#: admin/theme-config/config.php:2893 admin/theme-config/config.php:2901
+#: admin/theme-config/config.php:2909 admin/theme-config/config.php:2923
+#: admin/theme-config/config.php:2945 admin/theme-config/config.php:2961
+#: admin/theme-config/config.php:2998 admin/theme-config/config.php:3007
+#: admin/theme-config/config.php:3016 admin/theme-config/config.php:3030
+#: admin/theme-config/config.php:3050 admin/theme-config/config.php:3064
+#: admin/theme-config/config.php:3096 admin/theme-config/config.php:3104
+#: admin/theme-config/config.php:3150 admin/theme-config/config.php:3164
+#: admin/theme-config/config.php:3196 admin/theme-config/config.php:3204
+#: admin/theme-config/config.php:3266 admin/theme-config/config.php:3274
+#: admin/theme-config/config.php:3282 admin/theme-config/config.php:3290
+#: admin/theme-config/config.php:3298 admin/theme-config/config.php:3306
+#: admin/theme-config/config.php:3314 admin/theme-config/config.php:3322
+#: admin/theme-config/config.php:3442 admin/theme-config/config.php:3509
+#: admin/theme-config/config.php:3517 admin/theme-config/config.php:3535
+#: admin/theme-config/config.php:3544 admin/theme-config/config.php:3553
+msgid "No"
+msgstr ""
+
+#: admin/theme-config/config.php:199
+msgid "Custom Page Loader Image"
+msgstr ""
+
+#: admin/theme-config/config.php:200
+msgid "Upload the custom page loader image."
+msgstr ""
+
+#: admin/theme-config/config.php:206
+msgid "Enable Responsive Design"
+msgstr ""
+
+#: admin/theme-config/config.php:214
+msgid "Enable RTL Mode"
+msgstr ""
+
+#: admin/theme-config/config.php:215
+msgid "Enable this mode for right-to-left language mode."
+msgstr ""
+
+#: admin/theme-config/config.php:224
+msgid "Disable Open Graph Meta Tags"
+msgstr ""
+
+#: admin/theme-config/config.php:225
+msgid ""
+"Disable open graph meta tags which is mainly used when sharing pages on "
+"social networking sites like Facebook."
+msgstr ""
+
+#: admin/theme-config/config.php:234 admin/theme-config/config.php:243
+msgid "Logo"
+msgstr ""
+
+#: admin/theme-config/config.php:244
+msgid "Upload your website logo."
+msgstr ""
+
+#: admin/theme-config/config.php:256
+msgid "Retina Logo"
+msgstr ""
+
+#: admin/theme-config/config.php:257
+msgid "Upload the retina version of your logo."
+msgstr ""
+
+#: admin/theme-config/config.php:262
+msgid "Logo Max Height"
+msgstr ""
+
+#: admin/theme-config/config.php:263
+msgid "This must be numeric (no px)."
+msgstr ""
+
+#: admin/theme-config/config.php:264
+msgid ""
+"You can set a max height for the logo here, and this will resize it on the "
+"front end if your logo image is bigger."
+msgstr ""
+
+#: admin/theme-config/config.php:276
+msgid "Logo Padding"
+msgstr ""
+
+#: admin/theme-config/config.php:277
+msgid "Choose the spacing for logo."
+msgstr ""
+
+#: admin/theme-config/config.php:284
+msgid "Sticky Header Logo"
+msgstr ""
+
+#: admin/theme-config/config.php:285
+msgid "Upload your sticky header logo."
+msgstr ""
+
+#: admin/theme-config/config.php:300
+msgid "Sticky Logo Padding"
+msgstr ""
+
+#: admin/theme-config/config.php:301
+msgid "Choose the spacing for sticky logo."
+msgstr ""
+
+#: admin/theme-config/config.php:311
+msgid "Icons"
+msgstr ""
+
+#: admin/theme-config/config.php:318
+msgid ""
+"Please use \"Site Icon\" feature for adding favicon and other apple icons in "
+"\"Appearance > Customize > Site Identity > Site Icon\""
+msgstr ""
+
+#: admin/theme-config/config.php:327
+msgid "API Keys & Message Text"
+msgstr ""
+
+#: admin/theme-config/config.php:334
+msgid "Google Map API Key"
+msgstr ""
+
+#: admin/theme-config/config.php:335
+msgid ""
+"Enter your Google Map API key to use google map with your site. Please "
+"follow this <a href=\"https://developers.google.com/maps/documentation/"
+"javascript/get-api-key#get-an-api-key\" target=\"_blank\">link</a> to get "
+"API key."
+msgstr ""
+
+#: admin/theme-config/config.php:341
+msgid "Mailchimp API Key"
+msgstr ""
+
+#: admin/theme-config/config.php:342
+msgid "Enter your Mailchimp API key to get subscribers for your lists."
+msgstr ""
+
+#: admin/theme-config/config.php:348
+msgid "Mailchimp Success Message"
+msgstr ""
+
+#: admin/theme-config/config.php:349
+msgid "Mailchimp Success Message Text."
+msgstr ""
+
+#: admin/theme-config/config.php:350
+msgid ""
+"Success. You receive confirmation email to subscribe into our mailing lists."
+msgstr ""
+
+#: admin/theme-config/config.php:355
+msgid "Mailchimp Subscription Error Message"
+msgstr ""
+
+#: admin/theme-config/config.php:356
+msgid "Mailchimp Subscription Error Message Text."
+msgstr ""
+
+#: admin/theme-config/config.php:357
+msgid "Sorry. You already subscribed into our mailing lists."
+msgstr ""
+
+#: admin/theme-config/config.php:362
+msgid "Mailchimp Error Message"
+msgstr ""
+
+#: admin/theme-config/config.php:363
+msgid "Mailchimp Error Message Text."
+msgstr ""
+
+#: admin/theme-config/config.php:371
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/theme-config/config.php:378
+msgid "Custom CSS Code"
+msgstr ""
+
+#: admin/theme-config/config.php:379
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: admin/theme-config/config.php:389
+msgid "Maintenance"
+msgstr ""
+
+#: admin/theme-config/config.php:397
+msgid "Enable Maintenance Mode"
+msgstr ""
+
+#: admin/theme-config/config.php:398
+msgid "Enable the themes maintenance mode."
+msgstr ""
+
+#: admin/theme-config/config.php:401 admin/theme-config/config.php:423
+msgid "On ( Standard )"
+msgstr ""
+
+#: admin/theme-config/config.php:402 admin/theme-config/config.php:424
+msgid "On ( Custom Page )"
+msgstr ""
+
+#: admin/theme-config/config.php:410
+msgid "Custom Maintenance Mode Page"
+msgstr ""
+
+#: admin/theme-config/config.php:411
+msgid ""
+"Select the page that is your maintenance page, if you would like to show a "
+"custom page instead of the standard page from theme. You should use the "
+"Maintenance Page template for this page."
+msgstr ""
+
+#: admin/theme-config/config.php:419
+msgid "Enable Coming Soon Mode"
+msgstr ""
+
+#: admin/theme-config/config.php:420
+msgid "Enable the themes coming soon mode."
+msgstr ""
+
+#: admin/theme-config/config.php:432
+msgid "Custom Coming Soon Page"
+msgstr ""
+
+#: admin/theme-config/config.php:433
+msgid ""
+"Select the page that is your coming soon page, if you would like to show a "
+"custom page instead of the standard page from theme. You should use the "
+"Maintenance Page template for this page."
+msgstr ""
+
+#: admin/theme-config/config.php:443 tinymce/config.php:2513
+msgid "Layout"
+msgstr ""
+
+#: admin/theme-config/config.php:451
+msgid "Theme Layout"
+msgstr ""
+
+#: admin/theme-config/config.php:453 admin/theme-config/config.php:512
+msgid "Full Width"
+msgstr ""
+
+#: admin/theme-config/config.php:454 admin/theme-config/config.php:514
+msgid "Boxed"
+msgstr ""
+
+#: admin/theme-config/config.php:455 admin/theme-config/config.php:513
+msgid "Wide"
+msgstr ""
+
+#: admin/theme-config/config.php:462
+msgid "Page Layout"
+msgstr ""
+
+#: admin/theme-config/config.php:464 admin/theme-config/config.php:2748
+#: admin/theme-config/config.php:2824 admin/theme-config/config.php:2878
+#: admin/theme-config/config.php:3450 admin/theme-config/config.php:3464
+msgid "Full width"
+msgstr ""
+
+#: admin/theme-config/config.php:465 admin/theme-config/config.php:2749
+#: admin/theme-config/config.php:2825 admin/theme-config/config.php:2879
+#: admin/theme-config/config.php:3451 admin/theme-config/config.php:3465
+msgid "Right Sidebar"
+msgstr ""
+
+#: admin/theme-config/config.php:466 admin/theme-config/config.php:2750
+#: admin/theme-config/config.php:2826 admin/theme-config/config.php:2880
+#: admin/theme-config/config.php:3452 admin/theme-config/config.php:3466
+msgid "Left Sidebar"
+msgstr ""
+
+#: admin/theme-config/config.php:467 admin/theme-config/config.php:2751
+#: admin/theme-config/config.php:2827 admin/theme-config/config.php:2881
+#: admin/theme-config/config.php:3453 admin/theme-config/config.php:3467
+msgid "Left and Right Sidebar"
+msgstr ""
+
+#: admin/theme-config/config.php:468 admin/theme-config/config.php:2752
+#: admin/theme-config/config.php:2828 admin/theme-config/config.php:2882
+#: admin/theme-config/config.php:3454 admin/theme-config/config.php:3468
+msgid "Two Right Sidebars"
+msgstr ""
+
+#: admin/theme-config/config.php:469 admin/theme-config/config.php:2753
+#: admin/theme-config/config.php:2829 admin/theme-config/config.php:2883
+#: admin/theme-config/config.php:3455 admin/theme-config/config.php:3469
+msgid "Two Left Sidebars"
+msgstr ""
+
+#: admin/theme-config/config.php:476 admin/theme-config/config.php:488
+msgid "Container Max Width"
+msgstr ""
+
+#: admin/theme-config/config.php:477
+msgid "Please choose container maximum width for fullwidth layout"
+msgstr ""
+
+#: admin/theme-config/config.php:489
+msgid "Please choose container maximum width for boxed layout"
+msgstr ""
+
+#: admin/theme-config/config.php:502 admin/theme-config/config.php:1869
+msgid "Header"
+msgstr ""
+
+#: admin/theme-config/config.php:510
+msgid "Header Layout"
+msgstr ""
+
+#: admin/theme-config/config.php:521
+msgid "Enable Header Top Bar"
+msgstr ""
+
+#: admin/theme-config/config.php:529
+msgid "Enable Sticky Header"
+msgstr ""
+
+#: admin/theme-config/config.php:537
+msgid "Sticky header show/hide"
+msgstr ""
+
+#: admin/theme-config/config.php:538
+msgid ""
+"Enable the sticky header to hide once scrolled 800px down the page, and show "
+"on scroll up."
+msgstr ""
+
+#: admin/theme-config/config.php:549 admin/theme-config/config.php:602
+msgid "Header Type"
+msgstr ""
+
+#: admin/theme-config/config.php:556
+msgid "Header Skin"
+msgstr ""
+
+#: admin/theme-config/config.php:558 admin/theme-config/config.php:580
+#: admin/theme-config/config.php:918 admin/theme-config/config.php:1393
+#: admin/theme-config/config.php:1809
+msgid "Light"
+msgstr ""
+
+#: admin/theme-config/config.php:559 admin/theme-config/config.php:581
+#: admin/theme-config/config.php:919 admin/theme-config/config.php:1162
+#: admin/theme-config/config.php:1394
+msgid "Dark"
+msgstr ""
+
+#: admin/theme-config/config.php:566
+msgid "Header Transparency"
+msgstr ""
+
+#: admin/theme-config/config.php:568
+msgid "No Transparency"
+msgstr ""
+
+#: admin/theme-config/config.php:570 admin/theme-config/config.php:582
+msgid "Semi Transparent"
+msgstr ""
+
+#: admin/theme-config/config.php:577
+msgid "Header Menu Skin"
+msgstr ""
+
+#: admin/theme-config/config.php:589
+msgid "Header Search Type"
+msgstr ""
+
+#: admin/theme-config/config.php:590
+msgid "Choose search style mode in header."
+msgstr ""
+
+#: admin/theme-config/config.php:592
+msgid "Standard"
+msgstr ""
+
+#: admin/theme-config/config.php:593
+msgid "Toggle"
+msgstr ""
+
+#: admin/theme-config/config.php:594
+msgid "Fullscreen"
+msgstr ""
+
+#: admin/theme-config/config.php:604
+msgid "Default Header"
+msgstr ""
+
+#: admin/theme-config/config.php:605
+msgid "Header Center Logo"
+msgstr ""
+
+#: admin/theme-config/config.php:606
+msgid "Header Centered Logo"
+msgstr ""
+
+#: admin/theme-config/config.php:607
+msgid "Header Style 2"
+msgstr ""
+
+#: admin/theme-config/config.php:615 admin/theme-config/config.php:646
+msgid "Header Elements Config"
+msgstr ""
+
+#: admin/theme-config/config.php:616
+msgid ""
+"Choose the elements for the header area for Header 1. You can drag the items "
+"between enabled/disabled and also order them as you like."
+msgstr ""
+
+#: admin/theme-config/config.php:620 admin/theme-config/config.php:651
+#: admin/theme-config/config.php:686 admin/theme-config/config.php:710
+#: admin/theme-config/config.php:743
+msgid "Primary Menu"
+msgstr ""
+
+#: admin/theme-config/config.php:621 admin/theme-config/config.php:655
+#: admin/theme-config/config.php:685 admin/theme-config/config.php:713
+#: admin/theme-config/config.php:739
+msgid "Cart"
+msgstr ""
+
+#: admin/theme-config/config.php:624 admin/theme-config/config.php:652
+#: admin/theme-config/config.php:689 admin/theme-config/config.php:714
+#: admin/theme-config/config.php:740 admin/theme-config/config.php:794
+#: admin/theme-config/config.php:819
+msgid "Search"
+msgstr ""
+
+#: admin/theme-config/config.php:625 admin/theme-config/config.php:656
+#: admin/theme-config/config.php:687 admin/theme-config/config.php:715
+#: admin/theme-config/config.php:738 admin/theme-config/config.php:793
+#: admin/theme-config/config.php:815
+msgid "Social Icons"
+msgstr ""
+
+#: admin/theme-config/config.php:626 admin/theme-config/config.php:657
+#: admin/theme-config/config.php:688 admin/theme-config/config.php:716
+#: admin/theme-config/config.php:744 admin/theme-config/config.php:789
+#: admin/theme-config/config.php:818
+msgid "Contact Info"
+msgstr ""
+
+#: admin/theme-config/config.php:627 admin/theme-config/config.php:659
+#: admin/theme-config/config.php:690 admin/theme-config/config.php:718
+#: admin/theme-config/config.php:746 admin/theme-config/config.php:792
+#: admin/theme-config/config.php:822
+msgid "Text/Shortcode"
+msgstr ""
+
+#: admin/theme-config/config.php:628 admin/theme-config/config.php:658
+#: admin/theme-config/config.php:682 admin/theme-config/config.php:717
+#: admin/theme-config/config.php:745
+msgid "Address / Store Hours"
+msgstr ""
+
+#: admin/theme-config/config.php:636 admin/theme-config/config.php:639
+#: admin/theme-config/config.php:666 admin/theme-config/config.php:669
+msgid "Header Text"
+msgstr ""
+
+#: admin/theme-config/config.php:637 admin/theme-config/config.php:667
+msgid ""
+"You can use any shortcodes to set text on Header when you have the config "
+"above set to Text/Shortcode"
+msgstr ""
+
+#: admin/theme-config/config.php:647
+msgid ""
+"Choose the elements for the header area for Header 3. You can drag the items "
+"between enabled/disabled and also order them as you like."
+msgstr ""
+
+#: admin/theme-config/config.php:678
+msgid ""
+"Choose the elements for the header logo bar right area for Header 11. You "
+"can drag the items between enabled/disabled and also order them as you like."
+msgstr ""
+
+#: admin/theme-config/config.php:697 admin/theme-config/config.php:700
+msgid "Header Logo Bar Text"
+msgstr ""
+
+#: admin/theme-config/config.php:698
+msgid ""
+"You can use any shortcodes to set text on Logo Bar Header when you have the "
+"config above set to Text/Shortcode"
+msgstr ""
+
+#: admin/theme-config/config.php:706
+msgid ""
+"Choose the elements for the header left area for Header 11. You can drag the "
+"items between enabled/disabled and also order them as you like."
+msgstr ""
+
+#: admin/theme-config/config.php:725 admin/theme-config/config.php:728
+msgid "Header Left Text"
+msgstr ""
+
+#: admin/theme-config/config.php:726
+msgid ""
+"You can use any shortcodes to set text on Header when you have the left "
+"config above set to Text/Shortcode"
+msgstr ""
+
+#: admin/theme-config/config.php:734
+msgid ""
+"Choose the elements for the header right area for Header 11. You can drag "
+"the items between enabled/disabled and also order them as you like."
+msgstr ""
+
+#: admin/theme-config/config.php:753 admin/theme-config/config.php:756
+msgid "Header Right Text"
+msgstr ""
+
+#: admin/theme-config/config.php:754
+msgid ""
+"You can use any shortcodes to set text on Header when you have the right "
+"config above set to Text/Shortcode"
+msgstr ""
+
+#: admin/theme-config/config.php:764
+msgid "Slider Position"
+msgstr ""
+
+#: admin/theme-config/config.php:767 admin/theme-config/config.php:3120
+msgid "Below Header"
+msgstr ""
+
+#: admin/theme-config/config.php:768
+msgid "Above Header"
+msgstr ""
+
+#: admin/theme-config/config.php:777
+msgid "Header Top Bar"
+msgstr ""
+
+#: admin/theme-config/config.php:784
+msgid "Header Top Bar Left Config"
+msgstr ""
+
+#: admin/theme-config/config.php:785
+msgid "Choose the config for the header top bar left area"
+msgstr ""
+
+#: admin/theme-config/config.php:795 admin/theme-config/config.php:820
+msgid "Top Menu"
+msgstr ""
+
+#: admin/theme-config/config.php:796 admin/theme-config/config.php:821
+#: admin/theme-config/config.php:836
+msgid "Welcome Message"
+msgstr ""
+
+#: admin/theme-config/config.php:803 admin/theme-config/config.php:805
+msgid "Top Bar Left Text"
+msgstr ""
+
+#: admin/theme-config/config.php:804
+msgid ""
+"You can use any shortcodes to set text on Top Bar when you have the left "
+"config above set to Text/Shortcode"
+msgstr ""
+
+#: admin/theme-config/config.php:810
+msgid "Header Top Bar Right Config"
+msgstr ""
+
+#: admin/theme-config/config.php:811
+msgid "Choose the config for the header top bar right area"
+msgstr ""
+
+#: admin/theme-config/config.php:829 admin/theme-config/config.php:831
+msgid "Top Bar Right Text"
+msgstr ""
+
+#: admin/theme-config/config.php:830
+msgid ""
+"You can use any shortcodes to set text on Top Bar when you have the right "
+"config above set to Text/Shortcode"
+msgstr ""
+
+#: admin/theme-config/config.php:838
+msgid "Welcome to GoSolar"
+msgstr ""
+
+#: admin/theme-config/config.php:843
+msgid "Header Phone Number"
+msgstr ""
+
+#: admin/theme-config/config.php:844
+msgid "Phone number will display in the contact info section."
+msgstr ""
+
+#: admin/theme-config/config.php:850
+msgid "Header Email Address"
+msgstr ""
+
+#: admin/theme-config/config.php:851
+msgid "Email address will display in the contact info section."
+msgstr ""
+
+#: admin/theme-config/config.php:857
+msgid "Address"
+msgstr ""
+
+#: admin/theme-config/config.php:863
+msgid "Business Hours"
+msgstr ""
+
+#: admin/theme-config/config.php:871 admin/theme-config/config.php:1429
+msgid "Styling"
+msgstr ""
+
+#: admin/theme-config/config.php:881
+msgid "Header Padding"
+msgstr ""
+
+#: admin/theme-config/config.php:882
+msgid "Choose the spacing for header."
+msgstr ""
+
+#: admin/theme-config/config.php:889
+msgid "Main Menu"
+msgstr ""
+
+#: admin/theme-config/config.php:896
+msgid "Menu Type"
+msgstr ""
+
+#: admin/theme-config/config.php:897
+msgid "Please select menu type."
+msgstr ""
+
+#: admin/theme-config/config.php:899
+msgid "Standard Menu"
+msgstr ""
+
+#: admin/theme-config/config.php:900
+msgid "Mega Menu"
+msgstr ""
+
+#: admin/theme-config/config.php:907
+msgid "Enable Menu Separator"
+msgstr ""
+
+#: admin/theme-config/config.php:915
+msgid "Dropdown Menu Skin"
+msgstr ""
+
+#: admin/theme-config/config.php:916
+msgid "Please select dropdown menu skin type."
+msgstr ""
+
+#: admin/theme-config/config.php:928
+msgid "Dropdown Menu Width ( Only Standard Mode )"
+msgstr ""
+
+#: admin/theme-config/config.php:929
+msgid "Enter dropdown menu width for standard mode."
+msgstr ""
+
+#: admin/theme-config/config.php:942 admin/theme-config/config.php:987
+msgid "Main Menu Height"
+msgstr ""
+
+#: admin/theme-config/config.php:943 admin/theme-config/config.php:988
+msgid "Enter main menu height."
+msgstr ""
+
+#: admin/theme-config/config.php:955 admin/theme-config/config.php:1000
+msgid "Sticky Main Menu Height"
+msgstr ""
+
+#: admin/theme-config/config.php:956 admin/theme-config/config.php:1001
+msgid "Enter main menu height in sticky."
+msgstr ""
+
+#: admin/theme-config/config.php:966
+msgid "If Header Type 4, 5, 6, 11"
+msgstr ""
+
+#: admin/theme-config/config.php:974
+msgid "Logo Bar Height"
+msgstr ""
+
+#: admin/theme-config/config.php:975
+msgid "Enter logo bar height."
+msgstr ""
+
+#: admin/theme-config/config.php:1014
+msgid "Mobile Header"
+msgstr ""
+
+#: admin/theme-config/config.php:1024
+msgid "Mobile Logo"
+msgstr ""
+
+#: admin/theme-config/config.php:1025
+msgid "Upload an image or insert an image url to use for the mobile logo."
+msgstr ""
+
+#: admin/theme-config/config.php:1035
+msgid "Mobile Header Visiblity"
+msgstr ""
+
+#: admin/theme-config/config.php:1036
+msgid ""
+"Select at what screen size the main header is replaced by the mobile header."
+msgstr ""
+
+#: admin/theme-config/config.php:1038
+msgid "Tablet (Landscape)"
+msgstr ""
+
+#: admin/theme-config/config.php:1039
+msgid "Tablet (Portrait)"
+msgstr ""
+
+#: admin/theme-config/config.php:1040
+msgid "Mobile"
+msgstr ""
+
+#: admin/theme-config/config.php:1047
+msgid "Enable Mobile Sticky Header"
+msgstr ""
+
+#: admin/theme-config/config.php:1055
+msgid "Mobile Header Layout"
+msgstr ""
+
+#: admin/theme-config/config.php:1056
+msgid "Choose the config for the layout of the mobile header."
+msgstr ""
+
+#: admin/theme-config/config.php:1058
+msgid "Left Logo"
+msgstr ""
+
+#: admin/theme-config/config.php:1059
+msgid "Right Logo"
+msgstr ""
+
+#: admin/theme-config/config.php:1060
+msgid "Center Logo (Menu Left)"
+msgstr ""
+
+#: admin/theme-config/config.php:1061
+msgid "Center Logo (Menu Right)"
+msgstr ""
+
+#: admin/theme-config/config.php:1068
+msgid "Mobile Top Bar Text"
+msgstr ""
+
+#: admin/theme-config/config.php:1069
+msgid "You can use any shortcodes or text to show above mobile header"
+msgstr ""
+
+#: admin/theme-config/config.php:1070
+msgid "Leave blank to hide."
+msgstr ""
+
+#: admin/theme-config/config.php:1076
+msgid "Enable search box"
+msgstr ""
+
+#: admin/theme-config/config.php:1077
+msgid "Check this to show the search box in the mobile header."
+msgstr ""
+
+#: admin/theme-config/config.php:1087
+msgid "Enable translation options"
+msgstr ""
+
+#: admin/theme-config/config.php:1088
+msgid ""
+"Check this to show the translation options in the mobile header. NOTE: WPML "
+"plugin is required for this."
+msgstr ""
+
+#: admin/theme-config/config.php:1098
+msgid "Enable mobile social icons"
+msgstr ""
+
+#: admin/theme-config/config.php:1099
+msgid "Enable yes to show social icons on mobile menu warpper."
+msgstr ""
+
+#: admin/theme-config/config.php:1111
+msgid "Page Title Bar"
+msgstr ""
+
+#: admin/theme-config/config.php:1119
+msgid "Show Breadcrumbs"
+msgstr ""
+
+#: admin/theme-config/config.php:1128
+msgid "Show Page Title Bar"
+msgstr ""
+
+#: admin/theme-config/config.php:1137
+msgid "Show Page Title"
+msgstr ""
+
+#: admin/theme-config/config.php:1146
+msgid "Page Title Bar Type"
+msgstr ""
+
+#: admin/theme-config/config.php:1147
+msgid "Choose Page Title Bar Type."
+msgstr ""
+
+#: admin/theme-config/config.php:1150
+msgid "Mini"
+msgstr ""
+
+#: admin/theme-config/config.php:1158
+msgid "Page Title Bar Skin"
+msgstr ""
+
+#: admin/theme-config/config.php:1159
+msgid "Choose Page Title Bar Skin."
+msgstr ""
+
+#: admin/theme-config/config.php:1170
+msgid "Page Title Alignment"
+msgstr ""
+
+#: admin/theme-config/config.php:1171
+msgid "Choose Page Title Alignment."
+msgstr ""
+
+#: admin/theme-config/config.php:1176 admin/theme-config/config.php:1384
+#: widgets/social_link_widget.php:295
+msgid "Center"
+msgstr ""
+
+#: admin/theme-config/config.php:1184
+msgid "Page Title Bar Height"
+msgstr ""
+
+#: admin/theme-config/config.php:1185
+msgid "Enter the height of the page title bar. In pixels ex: 120px."
+msgstr ""
+
+#: admin/theme-config/config.php:1192
+msgid "Page Title Bar Mobile Height"
+msgstr ""
+
+#: admin/theme-config/config.php:1193
+msgid "Enter the height of the page title bar on mobile. In pixels ex: 120px."
+msgstr ""
+
+#: admin/theme-config/config.php:1200 tinymce/config.php:1947
+#: tinymce/config.php:2927
+msgid "Title Color"
+msgstr ""
+
+#: admin/theme-config/config.php:1208
+msgid "Breadcrumbs Color"
+msgstr ""
+
+#: admin/theme-config/config.php:1216 tinymce/config.php:1555
+msgid "Border Color"
+msgstr ""
+
+#: admin/theme-config/config.php:1224 admin/theme-config/config.php:1971
+msgid "Background Color"
+msgstr ""
+
+#: admin/theme-config/config.php:1234
+msgid "Background Image"
+msgstr ""
+
+#: admin/theme-config/config.php:1235
+msgid "Upload your background image."
+msgstr ""
+
+#: admin/theme-config/config.php:1243
+msgid "Repeat"
+msgstr ""
+
+#: admin/theme-config/config.php:1244
+msgid "Repeat-x"
+msgstr ""
+
+#: admin/theme-config/config.php:1246
+msgid "Repeat-y"
+msgstr ""
+
+#: admin/theme-config/config.php:1248
+msgid "No Repeat"
+msgstr ""
+
+#: admin/theme-config/config.php:1258
+msgid "Left Top"
+msgstr ""
+
+#: admin/theme-config/config.php:1259
+msgid "Left Center"
+msgstr ""
+
+#: admin/theme-config/config.php:1261
+msgid "Left Bottom"
+msgstr ""
+
+#: admin/theme-config/config.php:1263
+msgid "Center Top"
+msgstr ""
+
+#: admin/theme-config/config.php:1264
+msgid "Center Center"
+msgstr ""
+
+#: admin/theme-config/config.php:1266
+msgid "Center Bottom"
+msgstr ""
+
+#: admin/theme-config/config.php:1268
+msgid "Right Top"
+msgstr ""
+
+#: admin/theme-config/config.php:1269
+msgid "Right Center"
+msgstr ""
+
+#: admin/theme-config/config.php:1271
+msgid "Right Bottom"
+msgstr ""
+
+#: admin/theme-config/config.php:1279
+msgid "Parallax Background Image"
+msgstr ""
+
+#: admin/theme-config/config.php:1288
+msgid "100% Scale Background Image"
+msgstr ""
+
+#: admin/theme-config/config.php:1295
+msgid "Enable Video Background ?"
+msgstr ""
+
+#: admin/theme-config/config.php:1302 tinymce/config.php:3631
+#: tinymce/config.php:3775
+msgid "Video ID"
+msgstr ""
+
+#: admin/theme-config/config.php:1303
+msgid "Enter video id. ex:GHRv565gfg"
+msgstr ""
+
+#: admin/theme-config/config.php:1313 admin/theme-config/config.php:1998
+msgid "Footer"
+msgstr ""
+
+#: admin/theme-config/config.php:1321
+msgid "Enable Copyright Bar"
+msgstr ""
+
+#: admin/theme-config/config.php:1329
+msgid "Copyright Text"
+msgstr ""
+
+#: admin/theme-config/config.php:1330
+msgid ""
+"Enter an copyright text to show on footer. Use [year] shortcode to display "
+"current year."
+msgstr ""
+
+#: admin/theme-config/config.php:1331
+#, php-format
+msgid "Designed by <a href=\"%s\">zozothemes.com</a>"
+msgstr ""
+
+#: admin/theme-config/config.php:1336
+msgid "Enable Footer Widgets"
+msgstr ""
+
+#: admin/theme-config/config.php:1344
+msgid "Show Back To Top"
+msgstr ""
+
+#: admin/theme-config/config.php:1352
+msgid "Back To Top Position"
+msgstr ""
+
+#: admin/theme-config/config.php:1353
+msgid "Choose Back To Top position in footer."
+msgstr ""
+
+#: admin/theme-config/config.php:1356
+msgid "Floating Style"
+msgstr ""
+
+#: admin/theme-config/config.php:1357
+msgid "In Footer Top"
+msgstr ""
+
+#: admin/theme-config/config.php:1364
+msgid "Show Footer Menu"
+msgstr ""
+
+#: admin/theme-config/config.php:1374 admin/theme-config/config.php:1411
+msgid "Footer Type"
+msgstr ""
+
+#: admin/theme-config/config.php:1381
+msgid "Footer Copyright Bar Align"
+msgstr ""
+
+#: admin/theme-config/config.php:1391
+msgid "Footer Skin"
+msgstr ""
+
+#: admin/theme-config/config.php:1401
+msgid "Footer Style"
+msgstr ""
+
+#: admin/theme-config/config.php:1403 widgets/social_link_widget.php:307
+msgid "Normal"
+msgstr ""
+
+#: admin/theme-config/config.php:1404
+msgid "Sticky"
+msgstr ""
+
+#: admin/theme-config/config.php:1413
+msgid "Default Footer"
+msgstr ""
+
+#: admin/theme-config/config.php:1414
+msgid "Footer 3 Column"
+msgstr ""
+
+#: admin/theme-config/config.php:1415
+msgid "Footer 3 Column Centered"
+msgstr ""
+
+#: admin/theme-config/config.php:1416
+msgid "Footer 3 Column Alt"
+msgstr ""
+
+#: admin/theme-config/config.php:1417
+msgid "Footer 2 Column"
+msgstr ""
+
+#: admin/theme-config/config.php:1418 admin/theme-config/config.php:1419
+msgid "Footer 2 Column Large"
+msgstr ""
+
+#: admin/theme-config/config.php:1420
+msgid "Footer One Column"
+msgstr ""
+
+#: admin/theme-config/config.php:1439
+msgid "Footer Widgets Padding"
+msgstr ""
+
+#: admin/theme-config/config.php:1440
+msgid "Choose the spacing for footer widgets section."
+msgstr ""
+
+#: admin/theme-config/config.php:1448
+msgid "Footer Copyright Bar Padding"
+msgstr ""
+
+#: admin/theme-config/config.php:1449
+msgid "Choose the spacing for footer copyright bar."
+msgstr ""
+
+#: admin/theme-config/config.php:1456
+msgid "Typography"
+msgstr ""
+
+#: admin/theme-config/config.php:1464
+msgid "Body Font"
+msgstr ""
+
+#: admin/theme-config/config.php:1465
+msgid "Specify the body font properties."
+msgstr ""
+
+#: admin/theme-config/config.php:1485
+msgid "H1 Font Style"
+msgstr ""
+
+#: admin/theme-config/config.php:1486
+msgid "Specify the H1 font properties."
+msgstr ""
+
+#: admin/theme-config/config.php:1504
+msgid "H2 Font Style"
+msgstr ""
+
+#: admin/theme-config/config.php:1505
+msgid "Specify the H2 font properties."
+msgstr ""
+
+#: admin/theme-config/config.php:1523
+msgid "H3 Font Style"
+msgstr ""
+
+#: admin/theme-config/config.php:1524
+msgid "Specify the H3 font properties."
+msgstr ""
+
+#: admin/theme-config/config.php:1542
+msgid "H4 Font Style"
+msgstr ""
+
+#: admin/theme-config/config.php:1543
+msgid "Specify the H4 font properties."
+msgstr ""
+
+#: admin/theme-config/config.php:1561
+msgid "H5 Font Style"
+msgstr ""
+
+#: admin/theme-config/config.php:1562
+msgid "Specify the H5 font properties."
+msgstr ""
+
+#: admin/theme-config/config.php:1580
+msgid "H6 Font Style"
+msgstr ""
+
+#: admin/theme-config/config.php:1581
+msgid "Specify the H6 font properties."
+msgstr ""
+
+#: admin/theme-config/config.php:1601 admin/theme-config/config.php:1906
+msgid "Menu"
+msgstr ""
+
+#: admin/theme-config/config.php:1608
+msgid "Top Menu Font Style"
+msgstr ""
+
+#: admin/theme-config/config.php:1609
+msgid "Specify the Top menu font properties."
+msgstr ""
+
+#: admin/theme-config/config.php:1627
+msgid "Main Menu Font Style"
+msgstr ""
+
+#: admin/theme-config/config.php:1628
+msgid "Specify the Main menu font properties."
+msgstr ""
+
+#: admin/theme-config/config.php:1646
+msgid "Sub Menu Font Style"
+msgstr ""
+
+#: admin/theme-config/config.php:1647
+msgid "Specify the Sub menu font properties."
+msgstr ""
+
+#: admin/theme-config/config.php:1667
+msgid "Page/Post"
+msgstr ""
+
+#: admin/theme-config/config.php:1674
+msgid "Page/Post Title Font Style"
+msgstr ""
+
+#: admin/theme-config/config.php:1675
+msgid "Specify the Page/Post font properties."
+msgstr ""
+
+#: admin/theme-config/config.php:1693
+msgid "Blog Archive Title Font Style"
+msgstr ""
+
+#: admin/theme-config/config.php:1694
+msgid "Specify the Blog Archive Title font properties."
+msgstr ""
+
+#: admin/theme-config/config.php:1714
+msgid "Widgets"
+msgstr ""
+
+#: admin/theme-config/config.php:1721
+msgid "Widget Title Font Style"
+msgstr ""
+
+#: admin/theme-config/config.php:1722
+msgid "Specify the Widget Title font properties."
+msgstr ""
+
+#: admin/theme-config/config.php:1740
+msgid "Widget Text Font Style"
+msgstr ""
+
+#: admin/theme-config/config.php:1741
+msgid "Specify the Widget Text font properties."
+msgstr ""
+
+#: admin/theme-config/config.php:1759
+msgid "Footer Widget Title Font Style"
+msgstr ""
+
+#: admin/theme-config/config.php:1760
+msgid "Specify the Footer Widget Title font properties."
+msgstr ""
+
+#: admin/theme-config/config.php:1778
+msgid "Footer Widget Text Font Style"
+msgstr ""
+
+#: admin/theme-config/config.php:1779
+msgid "Specify the Footer Widget Text font properties."
+msgstr ""
+
+#: admin/theme-config/config.php:1799
+msgid "Skin"
+msgstr ""
+
+#: admin/theme-config/config.php:1807
+msgid "Theme Skin"
+msgstr ""
+
+#: admin/theme-config/config.php:1816
+msgid "Custom Color Scheme"
+msgstr ""
+
+#: admin/theme-config/config.php:1824
+msgid "Custom Color Skin"
+msgstr ""
+
+#: admin/theme-config/config.php:1825
+msgid "Specify the Color when Custom Color Scheme works as background color."
+msgstr ""
+
+#: admin/theme-config/config.php:1835
+msgid "Link Color"
+msgstr ""
+
+#: admin/theme-config/config.php:1836
+msgid "Choose link color."
+msgstr ""
+
+#: admin/theme-config/config.php:1848
+msgid "Body/Page"
+msgstr ""
+
+#: admin/theme-config/config.php:1855
+msgid "Body Background"
+msgstr ""
+
+#: admin/theme-config/config.php:1856
+msgid "Body background with image, color, etc."
+msgstr ""
+
+#: admin/theme-config/config.php:1861
+msgid "Page Background"
+msgstr ""
+
+#: admin/theme-config/config.php:1862
+msgid "Page background with image, color, etc."
+msgstr ""
+
+#: admin/theme-config/config.php:1876
+msgid "Header Background"
+msgstr ""
+
+#: admin/theme-config/config.php:1877
+msgid "Header background with image, color, etc."
+msgstr ""
+
+#: admin/theme-config/config.php:1883
+msgid "Sticky Background"
+msgstr ""
+
+#: admin/theme-config/config.php:1884
+msgid "Sticky background with image, color, etc."
+msgstr ""
+
+#: admin/theme-config/config.php:1890
+msgid "Header Top Background Color"
+msgstr ""
+
+#: admin/theme-config/config.php:1897
+msgid "Sliding Bar Background Color"
+msgstr ""
+
+#: admin/theme-config/config.php:1913
+msgid "Menu Hover Colors"
+msgstr ""
+
+#: admin/theme-config/config.php:1919
+msgid "Top Menu Link Color"
+msgstr ""
+
+#: admin/theme-config/config.php:1920
+msgid "Choose Top Menu link hover color."
+msgstr ""
+
+#: admin/theme-config/config.php:1930
+msgid "Main Menu Link Hover Color"
+msgstr ""
+
+#: admin/theme-config/config.php:1931
+msgid "Choose Main Menu link hover color."
+msgstr ""
+
+#: admin/theme-config/config.php:1941
+msgid "Menu Dropdown"
+msgstr ""
+
+#: admin/theme-config/config.php:1947
+msgid "Show Border"
+msgstr ""
+
+#: admin/theme-config/config.php:1956
+msgid "Dropdown Menu Border"
+msgstr ""
+
+#: admin/theme-config/config.php:1957
+msgid "Enter border for menu dropdown."
+msgstr ""
+
+#: admin/theme-config/config.php:1978
+msgid "Sub Menu Link Color"
+msgstr ""
+
+#: admin/theme-config/config.php:1979
+msgid "Choose Sub Menu link hover color."
+msgstr ""
+
+#: admin/theme-config/config.php:1989
+msgid "Link Hover Background Color"
+msgstr ""
+
+#: admin/theme-config/config.php:2005
+msgid "Footer Background"
+msgstr ""
+
+#: admin/theme-config/config.php:2006
+msgid "Footer background with image, color, etc."
+msgstr ""
+
+#: admin/theme-config/config.php:2012
+msgid "Footer Copyright Background"
+msgstr ""
+
+#: admin/theme-config/config.php:2013
+msgid "Footer copyright bar background with image, color, etc."
+msgstr ""
+
+#: admin/theme-config/config.php:2021 admin/theme-config/config.php:2052
+msgid "Social"
+msgstr ""
+
+#: admin/theme-config/config.php:2028
+msgid "Social Icon Background Color"
+msgstr ""
+
+#: admin/theme-config/config.php:2029
+msgid "Choose Social Icon Background color and hover color."
+msgstr ""
+
+#: admin/theme-config/config.php:2039
+msgid "Social Icon Color"
+msgstr ""
+
+#: admin/theme-config/config.php:2040
+msgid "Choose Social Icon color and hover color."
+msgstr ""
+
+#: admin/theme-config/config.php:2060 tinymce/config.php:1061
+#: tinymce/config.php:1185 tinymce/config.php:1351
+msgid "Icon Type"
+msgstr ""
+
+#: admin/theme-config/config.php:2062 widgets/social_link_widget.php:321
+msgid "Circle"
+msgstr ""
+
+#: admin/theme-config/config.php:2063 widgets/social_link_widget.php:323
+msgid "Square"
+msgstr ""
+
+#: admin/theme-config/config.php:2064 widgets/social_link_widget.php:325
+msgid "Rounded"
+msgstr ""
+
+#: admin/theme-config/config.php:2072
+msgid "Facebook"
+msgstr ""
+
+#: admin/theme-config/config.php:2073
+msgid ""
+"Enter the link for Facebook icon to appear. To remove it, just leave it "
+"blank."
+msgstr ""
+
+#: admin/theme-config/config.php:2079
+msgid "Twitter"
+msgstr ""
+
+#: admin/theme-config/config.php:2080
+msgid ""
+"Enter the link for Twitter icon to appear. To remove it, just leave it blank."
+msgstr ""
+
+#: admin/theme-config/config.php:2086
+msgid "LinkedIn"
+msgstr ""
+
+#: admin/theme-config/config.php:2087
+msgid ""
+"Enter the link for LinkedIn icon to appear. To remove it, just leave it "
+"blank."
+msgstr ""
+
+#: admin/theme-config/config.php:2093
+msgid "Pinterest"
+msgstr ""
+
+#: admin/theme-config/config.php:2094
+msgid ""
+"Enter the link for Pinterest icon to appear. To remove it, just leave it "
+"blank."
+msgstr ""
+
+#: admin/theme-config/config.php:2100
+msgid "Youtube"
+msgstr ""
+
+#: admin/theme-config/config.php:2101
+msgid ""
+"Enter the link for Youtube icon to appear. To remove it, just leave it blank."
+msgstr ""
+
+#: admin/theme-config/config.php:2107
+msgid "RSS"
+msgstr ""
+
+#: admin/theme-config/config.php:2108
+msgid ""
+"Enter the link for RSS icon to appear. To remove it, just leave it blank."
+msgstr ""
+
+#: admin/theme-config/config.php:2114
+msgid "Tumblr"
+msgstr ""
+
+#: admin/theme-config/config.php:2115
+msgid ""
+"Enter the link for Tumblr icon to appear. To remove it, just leave it blank."
+msgstr ""
+
+#: admin/theme-config/config.php:2121
+msgid "Reddit"
+msgstr ""
+
+#: admin/theme-config/config.php:2122
+msgid ""
+"Enter the link for Reddit icon to appear. To remove it, just leave it blank."
+msgstr ""
+
+#: admin/theme-config/config.php:2128
+msgid "Dribbble"
+msgstr ""
+
+#: admin/theme-config/config.php:2129
+msgid ""
+"Enter the link for Dribbble icon to appear. To remove it, just leave it "
+"blank."
+msgstr ""
+
+#: admin/theme-config/config.php:2135
+msgid "Digg"
+msgstr ""
+
+#: admin/theme-config/config.php:2136
+msgid ""
+"Enter the link for Digg icon to appear. To remove it, just leave it blank."
+msgstr ""
+
+#: admin/theme-config/config.php:2142
+msgid "Flickr"
+msgstr ""
+
+#: admin/theme-config/config.php:2143
+msgid ""
+"Enter the link for Flickr icon to appear. To remove it, just leave it blank."
+msgstr ""
+
+#: admin/theme-config/config.php:2149 widgets/instagram_widget.php:12
+#: widgets/instagram_widget.php:81
+msgid "Instagram"
+msgstr ""
+
+#: admin/theme-config/config.php:2150
+msgid ""
+"Enter the link for Instagram icon to appear. To remove it, just leave it "
+"blank."
+msgstr ""
+
+#: admin/theme-config/config.php:2156
+msgid "Vimeo"
+msgstr ""
+
+#: admin/theme-config/config.php:2157
+msgid ""
+"Enter the link for Vimeo icon to appear. To remove it, just leave it blank."
+msgstr ""
+
+#: admin/theme-config/config.php:2163
+msgid "Skype"
+msgstr ""
+
+#: admin/theme-config/config.php:2164
+msgid ""
+"Enter the link for Skype icon to appear. To remove it, just leave it blank."
+msgstr ""
+
+#: admin/theme-config/config.php:2170
+msgid "Blogger"
+msgstr ""
+
+#: admin/theme-config/config.php:2171
+msgid ""
+"Enter the link for Blogger icon to appear. To remove it, just leave it blank."
+msgstr ""
+
+#: admin/theme-config/config.php:2177
+msgid "Yahoo"
+msgstr ""
+
+#: admin/theme-config/config.php:2178
+msgid ""
+"Enter the link for Yahoo icon to appear. To remove it, just leave it blank."
+msgstr ""
+
+#: admin/theme-config/config.php:2186 admin/theme-config/config.php:3341
+#: gosolarthemes-core.php:258 gosolarthemes-core.php:259
+#: gosolarthemes-core.php:264
+msgid "Portfolio"
+msgstr ""
+
+#: admin/theme-config/config.php:2194
+msgid "Number of Portfolio Items Per Page"
+msgstr ""
+
+#: admin/theme-config/config.php:2195 admin/theme-config/config.php:2397
+#: admin/theme-config/config.php:2505
+msgid "Enter the number of posts to display per page in archive/category."
+msgstr ""
+
+#: admin/theme-config/config.php:2201
+msgid "Portfolio Archive/Category Layout"
+msgstr ""
+
+#: admin/theme-config/config.php:2203
+msgid "Grid"
+msgstr ""
+
+#: admin/theme-config/config.php:2204
+msgid "Classic"
+msgstr ""
+
+#: admin/theme-config/config.php:2211
+msgid "Portfolio Columns"
+msgstr ""
+
+#: admin/theme-config/config.php:2213 admin/theme-config/config.php:2405
+#: admin/theme-config/config.php:2513 admin/theme-config/config.php:2774
+#: admin/theme-config/config.php:2850 admin/theme-config/config.php:3233
+#: admin/theme-config/config.php:3484
+msgid "2 Columns"
+msgstr ""
+
+#: admin/theme-config/config.php:2214 admin/theme-config/config.php:2406
+#: admin/theme-config/config.php:2514 admin/theme-config/config.php:2775
+#: admin/theme-config/config.php:2851 admin/theme-config/config.php:3234
+#: admin/theme-config/config.php:3485
+msgid "3 Columns"
+msgstr ""
+
+#: admin/theme-config/config.php:2215 admin/theme-config/config.php:2407
+#: admin/theme-config/config.php:2515 admin/theme-config/config.php:2776
+#: admin/theme-config/config.php:2852 admin/theme-config/config.php:3235
+#: admin/theme-config/config.php:3486
+msgid "4 Columns"
+msgstr ""
+
+#: admin/theme-config/config.php:2222
+msgid "Portfolio Items Spacing"
+msgstr ""
+
+#: admin/theme-config/config.php:2223
+msgid "Enter gap size between portfolio items. Only enter number Ex: 10"
+msgstr ""
+
+#: admin/theme-config/config.php:2229
+msgid "Portfolio Details"
+msgstr ""
+
+#: admin/theme-config/config.php:2235
+msgid "Category Label"
+msgstr ""
+
+#: admin/theme-config/config.php:2236
+msgid "Change Category label to show in portfolio details."
+msgstr ""
+
+#: admin/theme-config/config.php:2237
+msgid "Category:"
+msgstr ""
+
+#: admin/theme-config/config.php:2243
+msgid "Tag Label"
+msgstr ""
+
+#: admin/theme-config/config.php:2244
+msgid "Change Tag label to show in portfolio details."
+msgstr ""
+
+#: admin/theme-config/config.php:2245
+msgid "Tags:"
+msgstr ""
+
+#: admin/theme-config/config.php:2250
+msgid "Client Label"
+msgstr ""
+
+#: admin/theme-config/config.php:2251
+msgid "Change Client label to show in portfolio details."
+msgstr ""
+
+#: admin/theme-config/config.php:2252
+msgid "Client:"
+msgstr ""
+
+#: admin/theme-config/config.php:2257
+msgid "Date Label"
+msgstr ""
+
+#: admin/theme-config/config.php:2258
+msgid "Change Date label to show in portfolio details."
+msgstr ""
+
+#: admin/theme-config/config.php:2259
+msgid "Date:"
+msgstr ""
+
+#: admin/theme-config/config.php:2264
+msgid "Estimation Label"
+msgstr ""
+
+#: admin/theme-config/config.php:2265
+msgid "Change Estimation label to show in portfolio details."
+msgstr ""
+
+#: admin/theme-config/config.php:2266
+msgid "Estimation:"
+msgstr ""
+
+#: admin/theme-config/config.php:2271
+msgid "Duration Label"
+msgstr ""
+
+#: admin/theme-config/config.php:2272
+msgid "Change Duration label to show in portfolio details."
+msgstr ""
+
+#: admin/theme-config/config.php:2273
+msgid "Duration:"
+msgstr ""
+
+#: admin/theme-config/config.php:2278 admin/theme-config/config.php:3013
+msgid "Show Post Navigation"
+msgstr ""
+
+#: admin/theme-config/config.php:2286
+msgid "Show Related Works Slider"
+msgstr ""
+
+#: admin/theme-config/config.php:2294
+msgid "Related Works Slider Title"
+msgstr ""
+
+#: admin/theme-config/config.php:2301 admin/theme-config/config.php:2420
+#: admin/theme-config/config.php:2528 admin/theme-config/config.php:2928
+#: admin/theme-config/config.php:3035 admin/theme-config/config.php:3135
+#: tinymce/config.php:679 tinymce/config.php:3909
+msgid "Items to Display"
+msgstr ""
+
+#: admin/theme-config/config.php:2308 admin/theme-config/config.php:2426
+#: admin/theme-config/config.php:2534 admin/theme-config/config.php:2935
+#: admin/theme-config/config.php:3041 admin/theme-config/config.php:3141
+#: tinymce/config.php:691 tinymce/config.php:3921
+msgid "Items to Scrollby"
+msgstr ""
+
+#: admin/theme-config/config.php:2315 admin/theme-config/config.php:2432
+#: admin/theme-config/config.php:2540 admin/theme-config/config.php:2974
+#: admin/theme-config/config.php:3075 admin/theme-config/config.php:3175
+#: tinymce/config.php:703 tinymce/config.php:3933
+msgid "Items To Display in Tablet"
+msgstr ""
+
+#: admin/theme-config/config.php:2322 admin/theme-config/config.php:2438
+#: admin/theme-config/config.php:2546 admin/theme-config/config.php:2981
+#: admin/theme-config/config.php:3081 admin/theme-config/config.php:3181
+msgid "Items To Display in Mobile Landscape"
+msgstr ""
+
+#: admin/theme-config/config.php:2329 admin/theme-config/config.php:2444
+#: admin/theme-config/config.php:2552 admin/theme-config/config.php:2988
+#: admin/theme-config/config.php:3087 admin/theme-config/config.php:3187
+msgid "Items To Display in Mobile Portrait"
+msgstr ""
+
+#: admin/theme-config/config.php:2336 admin/theme-config/config.php:2450
+#: admin/theme-config/config.php:2558 admin/theme-config/config.php:2967
+#: admin/theme-config/config.php:3069 admin/theme-config/config.php:3169
+#: tinymce/config.php:805 tinymce/config.php:4035
+msgid "Margin ( Items Spacing )"
+msgstr ""
+
+#: admin/theme-config/config.php:2343 admin/theme-config/config.php:2456
+#: admin/theme-config/config.php:2564 tinymce/config.php:3515
+#: tinymce/config.php:3665 tinymce/config.php:3809
+msgid "Autoplay"
+msgstr ""
+
+#: admin/theme-config/config.php:2352 admin/theme-config/config.php:2464
+#: admin/theme-config/config.php:2572 admin/theme-config/config.php:2669
+#: admin/theme-config/config.php:2951 admin/theme-config/config.php:3055
+#: admin/theme-config/config.php:3155 tinymce/config.php:793
+#: tinymce/config.php:4023
+msgid "Timeout Duration (in milliseconds)"
+msgstr ""
+
+#: admin/theme-config/config.php:2359 admin/theme-config/config.php:2470
+#: admin/theme-config/config.php:2578 tinymce/config.php:815
+msgid "Infinite Loop"
+msgstr ""
+
+#: admin/theme-config/config.php:2368 admin/theme-config/config.php:2478
+#: admin/theme-config/config.php:2586
+msgid "Pagination"
+msgstr ""
+
+#: admin/theme-config/config.php:2377 admin/theme-config/config.php:2486
+#: admin/theme-config/config.php:2594
+msgid "Navigation"
+msgstr ""
+
+#: admin/theme-config/config.php:2388 admin/theme-config/config.php:3342
+#: gosolarthemes-core.php:348 gosolarthemes-core.php:349
+#: gosolarthemes-core.php:354
+msgid "Services"
+msgstr ""
+
+#: admin/theme-config/config.php:2396
+msgid "Number of Service Items Per Page"
+msgstr ""
+
+#: admin/theme-config/config.php:2403
+msgid "Service Columns"
+msgstr ""
+
+#: admin/theme-config/config.php:2414
+msgid "Services Slider Configuration"
+msgstr ""
+
+#: admin/theme-config/config.php:2496
+msgid "Case Studies"
+msgstr ""
+
+#: admin/theme-config/config.php:2504
+msgid "Number of Case Study Items Per Page"
+msgstr ""
+
+#: admin/theme-config/config.php:2511
+msgid "Case Study Columns"
+msgstr ""
+
+#: admin/theme-config/config.php:2522
+msgid "Case Studies Slider Configuration"
+msgstr ""
+
+#: admin/theme-config/config.php:2605
+msgid "Post"
+msgstr ""
+
+#: admin/theme-config/config.php:2613
+msgid "Enable Infinite Scroll"
+msgstr ""
+
+#: admin/theme-config/config.php:2621
+msgid "Read More Button Text"
+msgstr ""
+
+#: admin/theme-config/config.php:2622
+msgid "Enter the custom read more button text."
+msgstr ""
+
+#: admin/theme-config/config.php:2628
+msgid "Excerpt Length"
+msgstr ""
+
+#: admin/theme-config/config.php:2634 admin/theme-config/config.php:2762
+#: admin/theme-config/config.php:2838 admin/theme-config/config.php:3221
+msgid "Large Layout"
+msgstr ""
+
+#: admin/theme-config/config.php:2635
+msgid "Enter the excerpt length for blog style large."
+msgstr ""
+
+#: admin/theme-config/config.php:2641 admin/theme-config/config.php:2764
+#: admin/theme-config/config.php:2840 admin/theme-config/config.php:3223
+msgid "Grid Layout"
+msgstr ""
+
+#: admin/theme-config/config.php:2642
+msgid "Enter the excerpt length for blog style grid."
+msgstr ""
+
+#: admin/theme-config/config.php:2648 admin/theme-config/config.php:2763
+#: admin/theme-config/config.php:2839 admin/theme-config/config.php:3222
+msgid "List Layout"
+msgstr ""
+
+#: admin/theme-config/config.php:2649
+msgid "Enter the excerpt length for blog style list."
+msgstr ""
+
+#: admin/theme-config/config.php:2655 admin/theme-config/config.php:3021
+msgid "Blog Gallery Slider"
+msgstr ""
+
+#: admin/theme-config/config.php:2661
+msgid "Enable Autoplay for Gallery Slider"
+msgstr ""
+
+#: admin/theme-config/config.php:2676
+msgid "Blog Post Meta"
+msgstr ""
+
+#: admin/theme-config/config.php:2682
+msgid "Post Meta Date Format"
+msgstr ""
+
+#: admin/theme-config/config.php:2689
+msgid "Disable Post Featured Image"
+msgstr ""
+
+#: admin/theme-config/config.php:2697
+msgid "Disable Post Meta Author"
+msgstr ""
+
+#: admin/theme-config/config.php:2705
+msgid "Disable Post Meta Date"
+msgstr ""
+
+#: admin/theme-config/config.php:2713
+msgid "Disable Post Meta Categories"
+msgstr ""
+
+#: admin/theme-config/config.php:2721
+msgid "Disable Post Meta Comments"
+msgstr ""
+
+#: admin/theme-config/config.php:2729
+msgid "Disable Read More Link"
+msgstr ""
+
+#: admin/theme-config/config.php:2739
+msgid "Blog Archive"
+msgstr ""
+
+#: admin/theme-config/config.php:2746
+msgid "Archive Layout"
+msgstr ""
+
+#: admin/theme-config/config.php:2760 admin/theme-config/config.php:2836
+msgid "Post Layout"
+msgstr ""
+
+#: admin/theme-config/config.php:2771 admin/theme-config/config.php:2847
+#: admin/theme-config/config.php:3230
+msgid "Grid Columns"
+msgstr ""
+
+#: admin/theme-config/config.php:2783 admin/theme-config/config.php:2859
+msgid "Show Featured Post Slider"
+msgstr ""
+
+#: admin/theme-config/config.php:2793
+msgid "Blog"
+msgstr ""
+
+#: admin/theme-config/config.php:2800
+msgid "Show Page title bar for Blog"
+msgstr ""
+
+#: admin/theme-config/config.php:2808
+msgid "Blog Page Title"
+msgstr ""
+
+#: admin/theme-config/config.php:2809
+msgid "Blog Page Title for the main blog page."
+msgstr ""
+
+#: admin/theme-config/config.php:2815
+msgid "Blog Page Slogan"
+msgstr ""
+
+#: admin/theme-config/config.php:2816
+msgid "Blog Page Slogan for the main blog page."
+msgstr ""
+
+#: admin/theme-config/config.php:2822
+msgid "Blog Layout"
+msgstr ""
+
+#: admin/theme-config/config.php:2869
+msgid "Single Post"
+msgstr ""
+
+#: admin/theme-config/config.php:2876
+msgid "Single Post Layout"
+msgstr ""
+
+#: admin/theme-config/config.php:2890
+msgid "Show Social Sharing"
+msgstr ""
+
+#: admin/theme-config/config.php:2898
+msgid "Show Author Info"
+msgstr ""
+
+#: admin/theme-config/config.php:2906 tinymce/config.php:3497
+#: widgets/tabs_widget.php:325
+msgid "Show Comments"
+msgstr ""
+
+#: admin/theme-config/config.php:2914
+msgid "Related Posts Slider"
+msgstr ""
+
+#: admin/theme-config/config.php:2920
+msgid "Show Related Posts"
+msgstr ""
+
+#: admin/theme-config/config.php:2942 admin/theme-config/config.php:3047
+#: admin/theme-config/config.php:3147
+msgid "Enable Auto Play"
+msgstr ""
+
+#: admin/theme-config/config.php:2958 admin/theme-config/config.php:3061
+#: admin/theme-config/config.php:3161
+msgid "Enable Infinite Loop"
+msgstr ""
+
+#: admin/theme-config/config.php:2995 admin/theme-config/config.php:3093
+#: admin/theme-config/config.php:3193 tinymce/config.php:755
+#: tinymce/config.php:3985
+msgid "Enable Pagination"
+msgstr ""
+
+#: admin/theme-config/config.php:3004 admin/theme-config/config.php:3101
+#: admin/theme-config/config.php:3201 tinymce/config.php:737
+#: tinymce/config.php:3967
+msgid "Enable Navigation"
+msgstr ""
+
+#: admin/theme-config/config.php:3027
+msgid "Enable Gallery Slider as Carousel globally ?"
+msgstr ""
+
+#: admin/theme-config/config.php:3111
+msgid "Featured Post Slider"
+msgstr ""
+
+#: admin/theme-config/config.php:3118
+msgid "Featured Post Slider Display"
+msgstr ""
+
+#: admin/theme-config/config.php:3121
+msgid "Above Content"
+msgstr ""
+
+#: admin/theme-config/config.php:3122
+msgid "Above Footer"
+msgstr ""
+
+#: admin/theme-config/config.php:3129
+msgid "Featured Posts Limit"
+msgstr ""
+
+#: admin/theme-config/config.php:3211
+msgid "Search Page"
+msgstr ""
+
+#: admin/theme-config/config.php:3219
+msgid "Search Results Layout"
+msgstr ""
+
+#: admin/theme-config/config.php:3242
+msgid "Search Results Content"
+msgstr ""
+
+#: admin/theme-config/config.php:3244
+msgid "Posts and Pages"
+msgstr ""
+
+#: admin/theme-config/config.php:3245
+msgid "Only Posts"
+msgstr ""
+
+#: admin/theme-config/config.php:3246
+msgid "Only Pages"
+msgstr ""
+
+#: admin/theme-config/config.php:3255
+msgid "Social Share"
+msgstr ""
+
+#: admin/theme-config/config.php:3263
+msgid "Enable Facebook Share"
+msgstr ""
+
+#: admin/theme-config/config.php:3271
+msgid "Enable Twitter Share"
+msgstr ""
+
+#: admin/theme-config/config.php:3279
+msgid "Enable LinkedIn Share"
+msgstr ""
+
+#: admin/theme-config/config.php:3287
+msgid "Enable Pinterest Share"
+msgstr ""
+
+#: admin/theme-config/config.php:3295
+msgid "Enable Tumblr Share"
+msgstr ""
+
+#: admin/theme-config/config.php:3303
+msgid "Enable Reddit Share"
+msgstr ""
+
+#: admin/theme-config/config.php:3311
+msgid "Enable Digg Share"
+msgstr ""
+
+#: admin/theme-config/config.php:3319
+msgid "Enable Email Share"
+msgstr ""
+
+#: admin/theme-config/config.php:3330
+msgid "Custom Post Types"
+msgstr ""
+
+#: admin/theme-config/config.php:3338
+msgid "Disable Custom Post Types"
+msgstr ""
+
+#: admin/theme-config/config.php:3339
+msgid ""
+"You can disable the custom post types used within the theme here, by "
+"checking the corresponding box."
+msgstr ""
+
+#: admin/theme-config/config.php:3343 gosolarthemes-core.php:414
+#: gosolarthemes-core.php:415 gosolarthemes-core.php:420
+msgid "Casestudies"
+msgstr ""
+
+#: admin/theme-config/config.php:3344 gosolarthemes-core.php:479
+#: gosolarthemes-core.php:480 gosolarthemes-core.php:485
+msgid "Event"
+msgstr ""
+
+#: admin/theme-config/config.php:3345 gosolarthemes-core.php:543
+#: gosolarthemes-core.php:544 gosolarthemes-core.php:549
+msgid "Testimonials"
+msgstr ""
+
+#: admin/theme-config/config.php:3346 gosolarthemes-core.php:606
+#: gosolarthemes-core.php:607
+msgid "Team Member"
+msgstr ""
+
+#: admin/theme-config/config.php:3360
+msgid "Portfolio Slug"
+msgstr ""
+
+#: admin/theme-config/config.php:3361
+msgid ""
+"The slug name cannot be the same name as your portfolio page or the layout "
+"will break. This option changes the permalink when you use the permalink "
+"type as %postname%."
+msgstr ""
+
+#: admin/theme-config/config.php:3367
+msgid "Portfolio Categories Slug"
+msgstr ""
+
+#: admin/theme-config/config.php:3368 admin/theme-config/config.php:3390
+#: admin/theme-config/config.php:3406 admin/theme-config/config.php:3422
+msgid ""
+"This option changes the permalink when you use the permalink type as "
+"%postname%."
+msgstr ""
+
+#: admin/theme-config/config.php:3374
+msgid "Portfolio Tags Slug"
+msgstr ""
+
+#: admin/theme-config/config.php:3375
+msgid "This is portfolio tag slug."
+msgstr ""
+
+#: admin/theme-config/config.php:3381
+msgid "Services Slug"
+msgstr ""
+
+#: admin/theme-config/config.php:3382
+msgid ""
+"The slug name cannot be the same name as your services page or the layout "
+"will break. This option changes the permalink when you use the permalink "
+"type as %postname%."
+msgstr ""
+
+#: admin/theme-config/config.php:3389
+msgid "Service Categories Slug"
+msgstr ""
+
+#: admin/theme-config/config.php:3397
+msgid "Case Studies Slug"
+msgstr ""
+
+#: admin/theme-config/config.php:3398
+msgid ""
+"The slug name cannot be the same name as your casestudies page or the layout "
+"will break. This option changes the permalink when you use the permalink "
+"type as %postname%."
+msgstr ""
+
+#: admin/theme-config/config.php:3405
+msgid "Casestudy Categories Slug"
+msgstr ""
+
+#: admin/theme-config/config.php:3413
+msgid "Event Slug"
+msgstr ""
+
+#: admin/theme-config/config.php:3414
+msgid ""
+"The slug name cannot be the same name as your event page or the layout will "
+"break. This option changes the permalink when you use the permalink type as "
+"%postname%."
+msgstr ""
+
+#: admin/theme-config/config.php:3421
+msgid "Event Categories Slug"
+msgstr ""
+
+#: admin/theme-config/config.php:3431
+msgid "Woocommerce"
+msgstr ""
+
+#: admin/theme-config/config.php:3439
+msgid "Catalog Mode"
+msgstr ""
+
+#: admin/theme-config/config.php:3443
+msgid ""
+"Enable this setting to set the products into catalog mode, with no cart or "
+"checkout process."
+msgstr ""
+
+#: admin/theme-config/config.php:3448
+msgid "Product Archive Layout"
+msgstr ""
+
+#: admin/theme-config/config.php:3462
+msgid "Single Product Layout"
+msgstr ""
+
+#: admin/theme-config/config.php:3476
+msgid "Products Per Page"
+msgstr ""
+
+#: admin/theme-config/config.php:3482
+msgid "Product Columns"
+msgstr ""
+
+#: admin/theme-config/config.php:3487
+msgid "5 Columns"
+msgstr ""
+
+#: admin/theme-config/config.php:3494
+msgid "Related Products Count"
+msgstr ""
+
+#: admin/theme-config/config.php:3496
+msgid "2 Products"
+msgstr ""
+
+#: admin/theme-config/config.php:3497
+msgid "3 Products"
+msgstr ""
+
+#: admin/theme-config/config.php:3498
+msgid "4 Products"
+msgstr ""
+
+#: admin/theme-config/config.php:3499
+msgid "5 Products"
+msgstr ""
+
+#: admin/theme-config/config.php:3506
+msgid "Enable Shop Page Ordering"
+msgstr ""
+
+#: admin/theme-config/config.php:3514
+msgid "Show Woocommerce Social Sharing"
+msgstr ""
+
+#: admin/theme-config/config.php:3524
+msgid "Miscellaneous"
+msgstr ""
+
+#: admin/theme-config/config.php:3532
+msgid "Remove Version Parameter From JS & CSS Files"
+msgstr ""
+
+#: admin/theme-config/config.php:3536
+msgid ""
+"Most scripts and style-sheets includes query string to identifying the "
+"version. This can cause issues with caching and such, which will result in "
+"less than optimal load times. You can enable this setting on to remove the "
+"query string from such strings."
+msgstr ""
+
+#: admin/theme-config/config.php:3541
+msgid "Minify CSS"
+msgstr ""
+
+#: admin/theme-config/config.php:3545
+msgid ""
+"This theme makes use of a lot of css styles, use this function to load a "
+"single minified file with all the required styles. Disable for testing "
+"purposes."
+msgstr ""
+
+#: admin/theme-config/config.php:3550
+msgid "Minify JS"
+msgstr ""
+
+#: admin/theme-config/config.php:3554
+msgid ""
+"This theme makes use of a lot of js scripts, use this function to load a "
+"single minified file with all the required code. Disable for testing "
+"purposes."
+msgstr ""
+
+#: gosolarthemes-core.php:260 gosolarthemes-core.php:350
+#: gosolarthemes-core.php:416 gosolarthemes-core.php:481
+#: gosolarthemes-core.php:545 gosolarthemes-core.php:608
+msgid "Add New"
+msgstr ""
+
+#: gosolarthemes-core.php:261
+msgid "Add New Portfolio"
+msgstr ""
+
+#: gosolarthemes-core.php:262
+msgid "Edit Portfolio"
+msgstr ""
+
+#: gosolarthemes-core.php:263
+msgid "New Portfolio"
+msgstr ""
+
+#: gosolarthemes-core.php:265
+msgid "View Portfolio"
+msgstr ""
+
+#: gosolarthemes-core.php:266
+msgid "Search Portfolio"
+msgstr ""
+
+#: gosolarthemes-core.php:267
+msgid "No Portfolio found"
+msgstr ""
+
+#: gosolarthemes-core.php:268
+msgid "No portfolio found in Trash"
+msgstr ""
+
+#: gosolarthemes-core.php:292
+msgid "Portfolio Categories"
+msgstr ""
+
+#: gosolarthemes-core.php:293 gosolarthemes-core.php:386
+#: gosolarthemes-core.php:451 gosolarthemes-core.php:517
+#: gosolarthemes-core.php:580 gosolarthemes-core.php:643
+msgid "Category"
+msgstr ""
+
+#: gosolarthemes-core.php:294 gosolarthemes-core.php:387
+#: gosolarthemes-core.php:452 gosolarthemes-core.php:518
+#: gosolarthemes-core.php:581 gosolarthemes-core.php:644
+msgid "Search Categories"
+msgstr ""
+
+#: gosolarthemes-core.php:295 gosolarthemes-core.php:388
+#: gosolarthemes-core.php:453 gosolarthemes-core.php:519
+#: gosolarthemes-core.php:582 gosolarthemes-core.php:645
+#: widgets/category_posts_widget.php:175 widgets/popular_posts_widget.php:207
+msgid "All Categories"
+msgstr ""
+
+#: gosolarthemes-core.php:296 gosolarthemes-core.php:389
+#: gosolarthemes-core.php:454 gosolarthemes-core.php:520
+#: gosolarthemes-core.php:583 gosolarthemes-core.php:646
+msgid "Parent Category"
+msgstr ""
+
+#: gosolarthemes-core.php:297 gosolarthemes-core.php:390
+#: gosolarthemes-core.php:455 gosolarthemes-core.php:521
+#: gosolarthemes-core.php:584 gosolarthemes-core.php:647
+msgid "Parent Category:"
+msgstr ""
+
+#: gosolarthemes-core.php:298 gosolarthemes-core.php:391
+#: gosolarthemes-core.php:456 gosolarthemes-core.php:522
+#: gosolarthemes-core.php:585 gosolarthemes-core.php:648
+msgid "Edit Category"
+msgstr ""
+
+#: gosolarthemes-core.php:299 gosolarthemes-core.php:392
+#: gosolarthemes-core.php:457 gosolarthemes-core.php:523
+#: gosolarthemes-core.php:586 gosolarthemes-core.php:649
+msgid "Update Category"
+msgstr ""
+
+#: gosolarthemes-core.php:300 gosolarthemes-core.php:393
+#: gosolarthemes-core.php:458 gosolarthemes-core.php:524
+#: gosolarthemes-core.php:587 gosolarthemes-core.php:650
+msgid "Add New Category"
+msgstr ""
+
+#: gosolarthemes-core.php:301 gosolarthemes-core.php:394
+#: gosolarthemes-core.php:459 gosolarthemes-core.php:525
+#: gosolarthemes-core.php:588 gosolarthemes-core.php:651
+msgid "New Category Name"
+msgstr ""
+
+#: gosolarthemes-core.php:302 gosolarthemes-core.php:395
+#: gosolarthemes-core.php:460 gosolarthemes-core.php:526
+#: gosolarthemes-core.php:589 gosolarthemes-core.php:642
+#: gosolarthemes-core.php:652 shortcodes.php:4267
+msgid "Categories"
+msgstr ""
+
+#: gosolarthemes-core.php:320
+msgid "Portfolio Tags"
+msgstr ""
+
+#: gosolarthemes-core.php:321
+msgid "Tag"
+msgstr ""
+
+#: gosolarthemes-core.php:322
+msgid "Search Tags"
+msgstr ""
+
+#: gosolarthemes-core.php:323
+msgid "All Tags"
+msgstr ""
+
+#: gosolarthemes-core.php:324
+msgid "Parent Tag"
+msgstr ""
+
+#: gosolarthemes-core.php:325
+msgid "Parent Tag:"
+msgstr ""
+
+#: gosolarthemes-core.php:326
+msgid "Edit Tag"
+msgstr ""
+
+#: gosolarthemes-core.php:327
+msgid "Update Tag"
+msgstr ""
+
+#: gosolarthemes-core.php:328
+msgid "Add New Tag"
+msgstr ""
+
+#: gosolarthemes-core.php:329
+msgid "New Tag Name"
+msgstr ""
+
+#: gosolarthemes-core.php:330
+msgid "Tags"
+msgstr ""
+
+#: gosolarthemes-core.php:351
+msgid "Add New Service"
+msgstr ""
+
+#: gosolarthemes-core.php:352
+msgid "Edit Service"
+msgstr ""
+
+#: gosolarthemes-core.php:353
+msgid "New Service"
+msgstr ""
+
+#: gosolarthemes-core.php:355
+msgid "View Service"
+msgstr ""
+
+#: gosolarthemes-core.php:356
+msgid "Search Service"
+msgstr ""
+
+#: gosolarthemes-core.php:357
+msgid "No Service found"
+msgstr ""
+
+#: gosolarthemes-core.php:358
+msgid "No Service found in Trash"
+msgstr ""
+
+#: gosolarthemes-core.php:385
+msgid "Service Categories"
+msgstr ""
+
+#: gosolarthemes-core.php:417
+msgid "Add New Casestudy"
+msgstr ""
+
+#: gosolarthemes-core.php:418
+msgid "Edit Casestudy"
+msgstr ""
+
+#: gosolarthemes-core.php:419
+msgid "New Casestudy"
+msgstr ""
+
+#: gosolarthemes-core.php:421
+msgid "View Casestudy"
+msgstr ""
+
+#: gosolarthemes-core.php:422
+msgid "Search Casestudy"
+msgstr ""
+
+#: gosolarthemes-core.php:423
+msgid "No Casestudy found"
+msgstr ""
+
+#: gosolarthemes-core.php:424
+msgid "No Casestudy found in Trash"
+msgstr ""
+
+#: gosolarthemes-core.php:450
+msgid "Casestudy Categories"
+msgstr ""
+
+#: gosolarthemes-core.php:482
+msgid "Add New Event"
+msgstr ""
+
+#: gosolarthemes-core.php:483
+msgid "Edit Event"
+msgstr ""
+
+#: gosolarthemes-core.php:484
+msgid "New Event"
+msgstr ""
+
+#: gosolarthemes-core.php:486
+msgid "View Event"
+msgstr ""
+
+#: gosolarthemes-core.php:487
+msgid "Search Event"
+msgstr ""
+
+#: gosolarthemes-core.php:488
+msgid "No Event found"
+msgstr ""
+
+#: gosolarthemes-core.php:489
+msgid "No Event found in Trash"
+msgstr ""
+
+#: gosolarthemes-core.php:516
+msgid "Event Categories"
+msgstr ""
+
+#: gosolarthemes-core.php:546
+msgid "Add New Testimonial"
+msgstr ""
+
+#: gosolarthemes-core.php:547
+msgid "Edit Testimonial"
+msgstr ""
+
+#: gosolarthemes-core.php:548
+msgid "New Testimonial"
+msgstr ""
+
+#: gosolarthemes-core.php:550
+msgid "View Testimonial"
+msgstr ""
+
+#: gosolarthemes-core.php:551
+msgid "Search Testimonials"
+msgstr ""
+
+#: gosolarthemes-core.php:552
+msgid "No Testimonials found"
+msgstr ""
+
+#: gosolarthemes-core.php:553
+msgid "No testimonials found in Trash"
+msgstr ""
+
+#: gosolarthemes-core.php:579
+msgid "Testimonial Categories"
+msgstr ""
+
+#: gosolarthemes-core.php:609
+msgid "Add New Member"
+msgstr ""
+
+#: gosolarthemes-core.php:610
+msgid "Edit Member"
+msgstr ""
+
+#: gosolarthemes-core.php:611
+msgid "New Member"
+msgstr ""
+
+#: gosolarthemes-core.php:612
+msgid "Team Members"
+msgstr ""
+
+#: gosolarthemes-core.php:613
+msgid "View Members"
+msgstr ""
+
+#: gosolarthemes-core.php:614
+msgid "Search Members"
+msgstr ""
+
+#: gosolarthemes-core.php:615
+msgid "No Members found"
+msgstr ""
+
+#: gosolarthemes-core.php:616
+msgid "No Members found in Trash"
+msgstr ""
+
+#: gosolarthemes-core.php:780 gosolarthemes-core.php:853
+msgid "Category Image"
+msgstr ""
+
+#: gosolarthemes-core.php:783 gosolarthemes-core.php:857
+msgid "Upload/Add image"
+msgstr ""
+
+#: gosolarthemes-core.php:784 gosolarthemes-core.php:858
+msgid "Remove image"
+msgstr ""
+
+#: gosolarthemes-core.php:786 gosolarthemes-core.php:860
+msgid "Select an image to list categories with images"
+msgstr ""
+
+#: gosolarthemes-core.php:810 gosolarthemes-core.php:884
+msgid "Select image"
+msgstr ""
+
+#: gosolarthemes-core.php:812 gosolarthemes-core.php:886
+msgid "Upload image"
+msgstr ""
+
+#: shortcodes.php:3901
+msgid "Get a discount"
+msgstr ""
+
+#: shortcodes.php:4255
+msgid "Pages"
+msgstr ""
+
+#: shortcodes.php:4279
+msgid "Archives"
+msgstr ""
+
+#: tinymce/config.php:157
+msgid "Alert Type"
+msgstr ""
+
+#: tinymce/config.php:159
+msgid "Select alert type"
+msgstr ""
+
+#: tinymce/config.php:181
+msgid "Alert Content"
+msgstr ""
+
+#: tinymce/config.php:183
+msgid "Add the alert's content"
+msgstr ""
+
+#: tinymce/config.php:191
+msgid "Alert Dismissable"
+msgstr ""
+
+#: tinymce/config.php:193
+msgid "Select to show close button in alert."
+msgstr ""
+
+#: tinymce/config.php:209 tinymce/config.php:477 tinymce/config.php:623
+#: tinymce/config.php:1099 tinymce/config.php:1291 tinymce/config.php:1457
+#: tinymce/config.php:1621 tinymce/config.php:1957 tinymce/config.php:2261
+#: tinymce/config.php:2463 tinymce/config.php:2949 tinymce/config.php:3039
+#: tinymce/config.php:4179 tinymce/config.php:4343
+msgid "Animation Type"
+msgstr ""
+
+#: tinymce/config.php:211 tinymce/config.php:479 tinymce/config.php:625
+#: tinymce/config.php:1101 tinymce/config.php:1293 tinymce/config.php:1459
+#: tinymce/config.php:1623 tinymce/config.php:1959 tinymce/config.php:2263
+#: tinymce/config.php:2465 tinymce/config.php:3041 tinymce/config.php:4181
+#: tinymce/config.php:4345
+msgid "Select the animation type for shortcode"
+msgstr ""
+
+#: tinymce/config.php:223 tinymce/config.php:491 tinymce/config.php:637
+#: tinymce/config.php:1113 tinymce/config.php:1305 tinymce/config.php:1471
+#: tinymce/config.php:1635 tinymce/config.php:1971 tinymce/config.php:2275
+#: tinymce/config.php:2477 tinymce/config.php:2963 tinymce/config.php:3053
+#: tinymce/config.php:4193 tinymce/config.php:4357
+msgid "Animation Delay"
+msgstr ""
+
+#: tinymce/config.php:225 tinymce/config.php:493 tinymce/config.php:639
+#: tinymce/config.php:1115 tinymce/config.php:1307 tinymce/config.php:1473
+#: tinymce/config.php:1637 tinymce/config.php:1973 tinymce/config.php:2277
+#: tinymce/config.php:2479 tinymce/config.php:2965 tinymce/config.php:3055
+#: tinymce/config.php:4195 tinymce/config.php:4359
+msgid "Enter animation delay in milliseconds. Ex: 500"
+msgstr ""
+
+#: tinymce/config.php:233
+msgid "Alert Shortcode"
+msgstr ""
+
+#: tinymce/config.php:259
+msgid "Button URL"
+msgstr ""
+
+#: tinymce/config.php:261
+msgid "Add the button's url. Ex: http://example.com"
+msgstr ""
+
+#: tinymce/config.php:269 tinymce/config.php:2793
+msgid "Button Style"
+msgstr ""
+
+#: tinymce/config.php:271 tinymce/config.php:2795
+msgid "Select the button's color"
+msgstr ""
+
+#: tinymce/config.php:297 tinymce/config.php:2161 tinymce/config.php:2351
+#: tinymce/config.php:3269
+msgid "Button Size"
+msgstr ""
+
+#: tinymce/config.php:299 tinymce/config.php:2163 tinymce/config.php:3271
+msgid "Select the button's size"
+msgstr ""
+
+#: tinymce/config.php:321
+msgid "Button Target"
+msgstr ""
+
+#: tinymce/config.php:323 tinymce/config.php:853
+msgid "_self = open in same window. <br /> _blank = open in new window"
+msgstr ""
+
+#: tinymce/config.php:341
+msgid "Button's Text"
+msgstr ""
+
+#: tinymce/config.php:343
+msgid "Add the button's text"
+msgstr ""
+
+#: tinymce/config.php:353 tinymce/config.php:2185 tinymce/config.php:2387
+#: tinymce/config.php:3293
+msgid "Button Background Color"
+msgstr ""
+
+#: tinymce/config.php:355
+msgid ""
+"Button Background Color. It only works if choosed \"Custom\" style for "
+"button."
+msgstr ""
+
+#: tinymce/config.php:365 tinymce/config.php:2197 tinymce/config.php:2399
+#: tinymce/config.php:3305
+msgid "Button Background Hover Color"
+msgstr ""
+
+#: tinymce/config.php:367
+msgid ""
+"Button Background Hover Color. It only works if choosed \"Custom\" style for "
+"button."
+msgstr ""
+
+#: tinymce/config.php:377 tinymce/config.php:2209 tinymce/config.php:2411
+#: tinymce/config.php:3317
+msgid "Button Text Color"
+msgstr ""
+
+#: tinymce/config.php:379 tinymce/config.php:2211 tinymce/config.php:2413
+#: tinymce/config.php:3319
+msgid "Button Text Color. Leave blank for default."
+msgstr ""
+
+#: tinymce/config.php:389 tinymce/config.php:2221 tinymce/config.php:2423
+#: tinymce/config.php:3329
+msgid "Button Text Hover Color"
+msgstr ""
+
+#: tinymce/config.php:391 tinymce/config.php:2223 tinymce/config.php:2425
+#: tinymce/config.php:3331
+msgid "Button Text Hover Color. Leave blank for default."
+msgstr ""
+
+#: tinymce/config.php:401 tinymce/config.php:1281 tinymce/config.php:1447
+#: tinymce/config.php:1567
+msgid "Border Width"
+msgstr ""
+
+#: tinymce/config.php:403
+msgid "Enter border width for button. Ex: 2 or 3."
+msgstr ""
+
+#: tinymce/config.php:413
+msgid "Button Border Color"
+msgstr ""
+
+#: tinymce/config.php:415
+msgid "Button Border Color. Leave blank for default."
+msgstr ""
+
+#: tinymce/config.php:425
+msgid "Button Border Hover Color"
+msgstr ""
+
+#: tinymce/config.php:427
+msgid "Button Border Hover Color. Leave blank for default."
+msgstr ""
+
+#: tinymce/config.php:435 tinymce/config.php:1029 tinymce/config.php:1173
+#: tinymce/config.php:1339 tinymce/config.php:1913 tinymce/config.php:2231
+#: tinymce/config.php:2433 tinymce/config.php:2577 tinymce/config.php:3339
+msgid "Select Icon"
+msgstr ""
+
+#: tinymce/config.php:437 tinymce/config.php:1031 tinymce/config.php:1175
+#: tinymce/config.php:1341 tinymce/config.php:1915 tinymce/config.php:2233
+#: tinymce/config.php:2435 tinymce/config.php:3341
+msgid "Click an icon to select, click again to deselect"
+msgstr ""
+
+#: tinymce/config.php:447 tinymce/config.php:2243 tinymce/config.php:2445
+#: tinymce/config.php:3351
+msgid "Icon Position"
+msgstr ""
+
+#: tinymce/config.php:449
+msgid "Select the position of the icon"
+msgstr ""
+
+#: tinymce/config.php:467
+msgid "Button Extra Class"
+msgstr ""
+
+#: tinymce/config.php:469
+msgid "Add the button extra class."
+msgstr ""
+
+#: tinymce/config.php:501
+msgid "Button Shortcode"
+msgstr ""
+
+#: tinymce/config.php:525
+msgid "Container"
+msgstr ""
+
+#: tinymce/config.php:527
+msgid "Choose to append container div to the columns."
+msgstr ""
+
+#: tinymce/config.php:545
+msgid "Container Extra Class"
+msgstr ""
+
+#: tinymce/config.php:547
+msgid "Enter extra class for container."
+msgstr ""
+
+#: tinymce/config.php:561 tinymce/config.php:4045
+msgid "Column Size"
+msgstr ""
+
+#: tinymce/config.php:563
+msgid "Select the width of the column."
+msgstr ""
+
+#: tinymce/config.php:601
+msgid "Column Content"
+msgstr ""
+
+#: tinymce/config.php:603
+msgid "Add the column content."
+msgstr ""
+
+#: tinymce/config.php:613
+msgid "Column Extra Class"
+msgstr ""
+
+#: tinymce/config.php:615
+msgid "Enter extra class for column."
+msgstr ""
+
+#: tinymce/config.php:647
+msgid "Add New Column"
+msgstr ""
+
+#: tinymce/config.php:653
+msgid "Columns Shortcode"
+msgstr ""
+
+#: tinymce/config.php:681
+msgid "Enter Number of items to Display for Clients Slider"
+msgstr ""
+
+#: tinymce/config.php:693 tinymce/config.php:3923
+msgid "Enter Number of items to Scrollby"
+msgstr ""
+
+#: tinymce/config.php:705 tinymce/config.php:3935
+msgid "Enter Number of items to Display in Tablet"
+msgstr ""
+
+#: tinymce/config.php:715 tinymce/config.php:3945
+msgid "Items To Display In Mobile Landscape"
+msgstr ""
+
+#: tinymce/config.php:717 tinymce/config.php:3947
+msgid "Enter Number of items to Display in Mobile Landscape"
+msgstr ""
+
+#: tinymce/config.php:727 tinymce/config.php:3957
+msgid "Items To Display In Mobile Portrait"
+msgstr ""
+
+#: tinymce/config.php:729 tinymce/config.php:3959
+msgid "Enter Number of items to Display in Mobile Portrait"
+msgstr ""
+
+#: tinymce/config.php:739 tinymce/config.php:3969
+msgid "Select to enable navigation for slider"
+msgstr ""
+
+#: tinymce/config.php:757 tinymce/config.php:3987
+msgid "Select to enable pagination for slider"
+msgstr ""
+
+#: tinymce/config.php:773 tinymce/config.php:4003
+msgid "Auto Play"
+msgstr ""
+
+#: tinymce/config.php:775 tinymce/config.php:4005
+msgid "Select to enable autoplay for slider"
+msgstr ""
+
+#: tinymce/config.php:795 tinymce/config.php:4025
+msgid "Select Timeout Duration for slider."
+msgstr ""
+
+#: tinymce/config.php:807 tinymce/config.php:4037
+msgid "Enter Spacing between items"
+msgstr ""
+
+#: tinymce/config.php:817
+msgid "Select to enable Infinite Loop for slider"
+msgstr ""
+
+#: tinymce/config.php:841
+msgid "Client/Brand Link"
+msgstr ""
+
+#: tinymce/config.php:843
+msgid "Add the client's/brand's website url. Ex: http://example.com"
+msgstr ""
+
+#: tinymce/config.php:851 tinymce/config.php:1705 tinymce/config.php:2143
+msgid "Link Target"
+msgstr ""
+
+#: tinymce/config.php:869 tinymce/config.php:1599
+msgid "Upload Image"
+msgstr ""
+
+#: tinymce/config.php:871
+msgid "Upload the client/brand image."
+msgstr ""
+
+#: tinymce/config.php:881 tinymce/config.php:1611 tinymce/config.php:1735
+msgid "Image Alt Text"
+msgstr ""
+
+#: tinymce/config.php:883 tinymce/config.php:1613 tinymce/config.php:1737
+msgid "If an image cannot be viewed the alt attribute text will be shown"
+msgstr ""
+
+#: tinymce/config.php:891
+msgid "Add New Client/Brand"
+msgstr ""
+
+#: tinymce/config.php:897
+msgid "Client/Brands Slider Shortcode"
+msgstr ""
+
+#: tinymce/config.php:923
+msgid "Dropcap Letter"
+msgstr ""
+
+#: tinymce/config.php:925
+msgid "Enter the letter to be used as dropcap"
+msgstr ""
+
+#: tinymce/config.php:935
+msgid "Dropcap Color"
+msgstr ""
+
+#: tinymce/config.php:937
+msgid "Dropcap Color. Leave blank for default."
+msgstr ""
+
+#: tinymce/config.php:945
+msgid "Dropcap Shortcode"
+msgstr ""
+
+#: tinymce/config.php:971
+msgid "Highlight Background Color"
+msgstr ""
+
+#: tinymce/config.php:973
+msgid "Choose a highlight background color"
+msgstr ""
+
+#: tinymce/config.php:981
+msgid "Highlight Text Color"
+msgstr ""
+
+#: tinymce/config.php:983
+msgid "Choose a highlight text color"
+msgstr ""
+
+#: tinymce/config.php:993
+msgid "Content to Hightlight"
+msgstr ""
+
+#: tinymce/config.php:995
+msgid "Enter the content to be highlighted"
+msgstr ""
+
+#: tinymce/config.php:1005
+msgid "Highlight Shortcode"
+msgstr ""
+
+#: tinymce/config.php:1041 tinymce/config.php:1249 tinymce/config.php:1415
+#: tinymce/config.php:1937
+msgid "Icon Color"
+msgstr ""
+
+#: tinymce/config.php:1043 tinymce/config.php:1939 tinymce/config.php:1949
+msgid "Leave blank for default"
+msgstr ""
+
+#: tinymce/config.php:1051 tinymce/config.php:1259 tinymce/config.php:1425
+msgid "Icon Background Color"
+msgstr ""
+
+#: tinymce/config.php:1053 tinymce/config.php:1251 tinymce/config.php:1261
+#: tinymce/config.php:1271 tinymce/config.php:1417 tinymce/config.php:1427
+#: tinymce/config.php:1437
+msgid "Leave blank for default color"
+msgstr ""
+
+#: tinymce/config.php:1063
+msgid "Choose to display of icon"
+msgstr ""
+
+#: tinymce/config.php:1081
+msgid "Inline List Type"
+msgstr ""
+
+#: tinymce/config.php:1083
+msgid "Choose to display of list items inline"
+msgstr ""
+
+#: tinymce/config.php:1133
+msgid "List Item Content"
+msgstr ""
+
+#: tinymce/config.php:1135
+msgid "Enter list item content"
+msgstr ""
+
+#: tinymce/config.php:1143
+msgid "Add New List Item"
+msgstr ""
+
+#: tinymce/config.php:1149
+msgid "List Item Shortcode"
+msgstr ""
+
+#: tinymce/config.php:1187 tinymce/config.php:1353
+msgid ""
+"Choose to display of icon. If \"none\" background and border icon wont "
+"displayed."
+msgstr ""
+
+#: tinymce/config.php:1205 tinymce/config.php:1371
+msgid "Icon Style"
+msgstr ""
+
+#: tinymce/config.php:1207 tinymce/config.php:1373
+msgid "Choose icon style."
+msgstr ""
+
+#: tinymce/config.php:1227 tinymce/config.php:1393 tinymce/config.php:1927
+msgid "Icon Size"
+msgstr ""
+
+#: tinymce/config.php:1229 tinymce/config.php:1395
+msgid "Select the size of the icon"
+msgstr ""
+
+#: tinymce/config.php:1269 tinymce/config.php:1435
+msgid "Icon Border Color"
+msgstr ""
+
+#: tinymce/config.php:1283 tinymce/config.php:1449
+msgid "Enter border width for icon. Ex: 2 or 3."
+msgstr ""
+
+#: tinymce/config.php:1315
+msgid "Font Awesome Shortcode"
+msgstr ""
+
+#: tinymce/config.php:1481
+msgid "Icons Shortcode"
+msgstr ""
+
+#: tinymce/config.php:1507
+msgid "Image Shape"
+msgstr ""
+
+#: tinymce/config.php:1509
+msgid ""
+"Choose image shape. For circle shape image need to be equal in width and "
+"height."
+msgstr ""
+
+#: tinymce/config.php:1533
+msgid "Image Frame Shadow"
+msgstr ""
+
+#: tinymce/config.php:1535
+msgid "Select shadow will show on Image Frame."
+msgstr ""
+
+#: tinymce/config.php:1557
+msgid "Choose color for border."
+msgstr ""
+
+#: tinymce/config.php:1569
+msgid "Enter border width for image. Ex: 2 or 3."
+msgstr ""
+
+#: tinymce/config.php:1579
+msgid "Lightbox Image"
+msgstr ""
+
+#: tinymce/config.php:1581
+msgid "Show image in Lightbox"
+msgstr ""
+
+#: tinymce/config.php:1601
+msgid "Upload an image to display in the frame"
+msgstr ""
+
+#: tinymce/config.php:1645
+msgid "Image Frame Shortcode"
+msgstr ""
+
+#: tinymce/config.php:1673
+msgid "Link Type"
+msgstr ""
+
+#: tinymce/config.php:1675
+msgid "Choose Image Link Type"
+msgstr ""
+
+#: tinymce/config.php:1695
+msgid "Image Link"
+msgstr ""
+
+#: tinymce/config.php:1697
+msgid "Add the url to image. Only for Image Link Type"
+msgstr ""
+
+#: tinymce/config.php:1707 tinymce/config.php:2145 tinymce/config.php:3253
+msgid "_self = Open in same window <br />_blank = Open in new window"
+msgstr ""
+
+#: tinymce/config.php:1723
+msgid "Image"
+msgstr ""
+
+#: tinymce/config.php:1725
+msgid "Upload an image for carousel"
+msgstr ""
+
+#: tinymce/config.php:1747
+msgid "Caption"
+msgstr ""
+
+#: tinymce/config.php:1749
+msgid "Add caption to show in slider"
+msgstr ""
+
+#: tinymce/config.php:1757
+msgid "Add New Carousel Item"
+msgstr ""
+
+#: tinymce/config.php:1763
+msgid "Boostrap Carousel Shortcode"
+msgstr ""
+
+#: tinymce/config.php:1789
+msgid "Progress Bar Title"
+msgstr ""
+
+#: tinymce/config.php:1791
+msgid "Enter Progress Bar Title"
+msgstr ""
+
+#: tinymce/config.php:1801
+msgid "Filled Area Percentage"
+msgstr ""
+
+#: tinymce/config.php:1803
+msgid "Enter number from 1 to 100"
+msgstr ""
+
+#: tinymce/config.php:1811
+msgid "Filled Color"
+msgstr ""
+
+#: tinymce/config.php:1813
+msgid "Background Color for filled in area"
+msgstr ""
+
+#: tinymce/config.php:1821
+msgid "Unfilled Color"
+msgstr ""
+
+#: tinymce/config.php:1823
+msgid "Background Color for unfilled area"
+msgstr ""
+
+#: tinymce/config.php:1831
+msgid "Enable Striped Animation"
+msgstr ""
+
+#: tinymce/config.php:1833
+msgid "Choose to enable striped animation on Progress Bars."
+msgstr ""
+
+#: tinymce/config.php:1851
+msgid "Progress Bar Text"
+msgstr ""
+
+#: tinymce/config.php:1853
+msgid "Enter the text to show in progess bar"
+msgstr ""
+
+#: tinymce/config.php:1861
+msgid "Progress Bar Shortcode"
+msgstr ""
+
+#: tinymce/config.php:1893
+msgid "Enter the title for counter item."
+msgstr ""
+
+#: tinymce/config.php:1903 tinymce/config.php:4121
+msgid "Counter Value"
+msgstr ""
+
+#: tinymce/config.php:1905
+msgid "Enter counter value."
+msgstr ""
+
+#: tinymce/config.php:1929
+msgid "Enter Icon size. Ex: 30px"
+msgstr ""
+
+#: tinymce/config.php:1981 tinymce/config.php:4203
+msgid "Add New Counter"
+msgstr ""
+
+#: tinymce/config.php:1987
+msgid "Counters Shortcode"
+msgstr ""
+
+#: tinymce/config.php:2015
+msgid "Enter title to show in Jumbotron"
+msgstr ""
+
+#: tinymce/config.php:2023 tinymce/config.php:2321 tinymce/config.php:2845
+#: tinymce/config.php:3029 tinymce/config.php:3111 tinymce/config.php:4425
+#: tinymce/config.php:4612
+msgid "Content"
+msgstr ""
+
+#: tinymce/config.php:2025
+msgid "Enter content to show in Jumbotron"
+msgstr ""
+
+#: tinymce/config.php:2033
+msgid "Container Background Image"
+msgstr ""
+
+#: tinymce/config.php:2035
+msgid ""
+"Upload an image to use background for container. Leave blank for default."
+msgstr ""
+
+#: tinymce/config.php:2045
+msgid "Choose background repeat for container."
+msgstr ""
+
+#: tinymce/config.php:2067
+msgid "Container Background Color"
+msgstr ""
+
+#: tinymce/config.php:2069
+msgid "Choose Container Background Color."
+msgstr ""
+
+#: tinymce/config.php:2079
+msgid "Container Text Color"
+msgstr ""
+
+#: tinymce/config.php:2081
+msgid "Choose Container Text Color."
+msgstr ""
+
+#: tinymce/config.php:2091
+msgid "Border Radius"
+msgstr ""
+
+#: tinymce/config.php:2093
+msgid "Enter border radius. Ex: 2px or 50%."
+msgstr ""
+
+#: tinymce/config.php:2101 tinymce/config.php:4289
+#: widgets/category_posts_widget.php:211
+msgid "Show Button"
+msgstr ""
+
+#: tinymce/config.php:2103
+msgid "Choose to show button with custom link."
+msgstr ""
+
+#: tinymce/config.php:2121 tinymce/config.php:2375 tinymce/config.php:4309
+msgid "Button Text"
+msgstr ""
+
+#: tinymce/config.php:2123 tinymce/config.php:4311
+msgid "Enter button text."
+msgstr ""
+
+#: tinymce/config.php:2133 tinymce/config.php:4321
+msgid "Button Link"
+msgstr ""
+
+#: tinymce/config.php:2135 tinymce/config.php:4323
+msgid "Enter button link."
+msgstr ""
+
+#: tinymce/config.php:2187 tinymce/config.php:2389 tinymce/config.php:3295
+msgid "Button Background Color."
+msgstr ""
+
+#: tinymce/config.php:2199 tinymce/config.php:2401 tinymce/config.php:3307
+msgid "Button Background Hover Color."
+msgstr ""
+
+#: tinymce/config.php:2285
+msgid "Jumbotron Shortcode"
+msgstr ""
+
+#: tinymce/config.php:2311
+msgid "Modal Title"
+msgstr ""
+
+#: tinymce/config.php:2313
+msgid "Enter title to show in Modal header"
+msgstr ""
+
+#: tinymce/config.php:2323
+msgid "Enter content to show in Modal"
+msgstr ""
+
+#: tinymce/config.php:2331
+msgid "Modal Size"
+msgstr ""
+
+#: tinymce/config.php:2333
+msgid "Choose modal size"
+msgstr ""
+
+#: tinymce/config.php:2353
+msgid "Choose button size"
+msgstr ""
+
+#: tinymce/config.php:2377
+msgid "Enter button text to open modal window by clicking it."
+msgstr ""
+
+#: tinymce/config.php:2487
+msgid "Modals Shortcode"
+msgstr ""
+
+#: tinymce/config.php:2515
+msgid "Choose the layout of tabs"
+msgstr ""
+
+#: tinymce/config.php:2535
+msgid "Active Background Color"
+msgstr ""
+
+#: tinymce/config.php:2537
+msgid "Choose active tab background color. Leave blank for default"
+msgstr ""
+
+#: tinymce/config.php:2547
+msgid "Inactive Background Color"
+msgstr ""
+
+#: tinymce/config.php:2549
+msgid "Choose inactive tab background color. Leave blank for default"
+msgstr ""
+
+#: tinymce/config.php:2565
+msgid "Tab Title"
+msgstr ""
+
+#: tinymce/config.php:2567
+msgid "Title of the tab"
+msgstr ""
+
+#: tinymce/config.php:2579
+msgid ""
+"Select icon to show before tab title. Click an icon to select, click again "
+"to deselect"
+msgstr ""
+
+#: tinymce/config.php:2591
+msgid "Icon & Title Color"
+msgstr ""
+
+#: tinymce/config.php:2593
+msgid "Choose icon and tab title color. Leave blank for default"
+msgstr ""
+
+#: tinymce/config.php:2603
+msgid "Tab Content"
+msgstr ""
+
+#: tinymce/config.php:2605
+msgid "Add the tabs content"
+msgstr ""
+
+#: tinymce/config.php:2613
+msgid "Add New Tab"
+msgstr ""
+
+#: tinymce/config.php:2619
+msgid "Tab Shortcode"
+msgstr ""
+
+#: tinymce/config.php:2643
+msgid "Accordion Style"
+msgstr ""
+
+#: tinymce/config.php:2645
+msgid "Select the accordion style"
+msgstr ""
+
+#: tinymce/config.php:2663
+msgid "Accordion ID"
+msgstr ""
+
+#: tinymce/config.php:2665
+msgid "Insert accordion id"
+msgstr ""
+
+#: tinymce/config.php:2683
+msgid "Insert the accordion title"
+msgstr ""
+
+#: tinymce/config.php:2691
+msgid "Open by Default"
+msgstr ""
+
+#: tinymce/config.php:2693
+msgid "Choose to have the accordion open by default"
+msgstr ""
+
+#: tinymce/config.php:2711
+msgid "Parent Accordion ID"
+msgstr ""
+
+#: tinymce/config.php:2713
+msgid "Insert parent accordion id"
+msgstr ""
+
+#: tinymce/config.php:2723
+msgid "Accordion Content"
+msgstr ""
+
+#: tinymce/config.php:2725
+msgid "Insert the accordion content"
+msgstr ""
+
+#: tinymce/config.php:2733
+msgid "Add New Accordion Item"
+msgstr ""
+
+#: tinymce/config.php:2739
+msgid "Accordion Shortcode"
+msgstr ""
+
+#: tinymce/config.php:2765
+msgid "Tooltip Text"
+msgstr ""
+
+#: tinymce/config.php:2767
+msgid "Insert the text that displays in the tooltip"
+msgstr ""
+
+#: tinymce/config.php:2775
+msgid "Tooltip Type"
+msgstr ""
+
+#: tinymce/config.php:2777
+msgid "Select tooltip type"
+msgstr ""
+
+#: tinymce/config.php:2821
+msgid "Tooltip Position"
+msgstr ""
+
+#: tinymce/config.php:2823
+msgid "Choose the position to tooltip appear"
+msgstr ""
+
+#: tinymce/config.php:2847
+msgid "Insert the text that will activate the tooltip hover"
+msgstr ""
+
+#: tinymce/config.php:2855
+msgid "Tooltip Shortcode"
+msgstr ""
+
+#: tinymce/config.php:2883
+msgid "Enter the Title."
+msgstr ""
+
+#: tinymce/config.php:2893
+msgid "Section Slogan"
+msgstr ""
+
+#: tinymce/config.php:2895
+msgid "Enter the Section Slogan."
+msgstr ""
+
+#: tinymce/config.php:2903
+msgid "Text Alignment"
+msgstr ""
+
+#: tinymce/config.php:2905
+msgid "Choose Text Alignment."
+msgstr ""
+
+#: tinymce/config.php:2929
+msgid "Choose title color. Leave blank for default"
+msgstr ""
+
+#: tinymce/config.php:2939
+msgid "Slogan Color"
+msgstr ""
+
+#: tinymce/config.php:2941
+msgid "Choose page slogan color. Leave blank for default"
+msgstr ""
+
+#: tinymce/config.php:2951
+msgid "Select the animation type for arrows"
+msgstr ""
+
+#: tinymce/config.php:2973
+msgid "Page Header Shortcode"
+msgstr ""
+
+#: tinymce/config.php:2999
+msgid "Blockquote Cite Text"
+msgstr ""
+
+#: tinymce/config.php:3001
+msgid "Insert the footer text. Author or source name"
+msgstr ""
+
+#: tinymce/config.php:3009
+msgid "Blockquote Align"
+msgstr ""
+
+#: tinymce/config.php:3011
+msgid "Choose blockquote alignment"
+msgstr ""
+
+#: tinymce/config.php:3031
+msgid "Insert the blockquote content"
+msgstr ""
+
+#: tinymce/config.php:3063
+msgid "Blockquotes Shortcode"
+msgstr ""
+
+#: tinymce/config.php:3087
+msgid "Paragraph Alignment"
+msgstr ""
+
+#: tinymce/config.php:3089
+msgid "Choose paragraph alignment"
+msgstr ""
+
+#: tinymce/config.php:3113
+msgid "Insert the paragraph content"
+msgstr ""
+
+#: tinymce/config.php:3121
+msgid "Lead Paragraph Shortcode"
+msgstr ""
+
+#: tinymce/config.php:3147
+msgid "Popover Title"
+msgstr ""
+
+#: tinymce/config.php:3149
+msgid "Insert the title."
+msgstr ""
+
+#: tinymce/config.php:3159
+msgid "Popover Content"
+msgstr ""
+
+#: tinymce/config.php:3161
+msgid "Insert the popover content"
+msgstr ""
+
+#: tinymce/config.php:3169
+msgid "Popover Position"
+msgstr ""
+
+#: tinymce/config.php:3171
+msgid "Choose the position to popover appear"
+msgstr ""
+
+#: tinymce/config.php:3191
+msgid "Popover Link Type"
+msgstr ""
+
+#: tinymce/config.php:3193
+msgid "Choose type of text to active popover."
+msgstr ""
+
+#: tinymce/config.php:3209
+msgid "Popover Show"
+msgstr ""
+
+#: tinymce/config.php:3211
+msgid ""
+"Choose when popover needs to activate. By \"Click\" on popover show wont "
+"work with Link type."
+msgstr ""
+
+#: tinymce/config.php:3229
+msgid "Link or Button Text"
+msgstr ""
+
+#: tinymce/config.php:3231
+msgid "Insert the link or button text."
+msgstr ""
+
+#: tinymce/config.php:3241
+msgid "Link or Button URL"
+msgstr ""
+
+#: tinymce/config.php:3243
+msgid "Insert the link for text."
+msgstr ""
+
+#: tinymce/config.php:3251
+msgid "Link or Button Target"
+msgstr ""
+
+#: tinymce/config.php:3369
+msgid "Popover Shortcode"
+msgstr ""
+
+#: tinymce/config.php:3393
+msgid "Style Type"
+msgstr ""
+
+#: tinymce/config.php:3395
+msgid "Choose the table style"
+msgstr ""
+
+#: tinymce/config.php:3413
+msgid "Number of Rows"
+msgstr ""
+
+#: tinymce/config.php:3415
+msgid "Select number of rows for table"
+msgstr ""
+
+#: tinymce/config.php:3437
+msgid "Number of Columns"
+msgstr ""
+
+#: tinymce/config.php:3439
+msgid "Select number of columns for table"
+msgstr ""
+
+#: tinymce/config.php:3461
+msgid "Table Shortcode"
+msgstr ""
+
+#: tinymce/config.php:3487
+msgid "SoundCloud Url"
+msgstr ""
+
+#: tinymce/config.php:3489
+msgid "Enter SoundCloud url, Ex: http://api.soundcloud.com/tracks/59051244"
+msgstr ""
+
+#: tinymce/config.php:3499
+msgid "Choose to display comments"
+msgstr ""
+
+#: tinymce/config.php:3517
+msgid "Select to autoplay the track"
+msgstr ""
+
+#: tinymce/config.php:3533
+msgid "Show Buy & Like Buttons"
+msgstr ""
+
+#: tinymce/config.php:3535
+msgid "Select to show/hide buy & like buttons"
+msgstr ""
+
+#: tinymce/config.php:3551
+msgid "Show Artwork"
+msgstr ""
+
+#: tinymce/config.php:3553
+msgid "Select to show/hide artwork"
+msgstr ""
+
+#: tinymce/config.php:3571 tinymce/config.php:3685
+msgid "Color"
+msgstr ""
+
+#: tinymce/config.php:3573
+msgid "Select the color for play button and other controls"
+msgstr ""
+
+#: tinymce/config.php:3585
+#, php-format
+msgid "Enter player width in pixels or percentage. Ex: 100% or 500px"
+msgstr ""
+
+#: tinymce/config.php:3597
+msgid "Enter player height in pixels. Ex: 110"
+msgstr ""
+
+#: tinymce/config.php:3605
+msgid "SoundCloud Shortcode"
+msgstr ""
+
+#: tinymce/config.php:3633
+msgid "For example the Video ID for https://vimeo.com/19940853 is 19940853"
+msgstr ""
+
+#: tinymce/config.php:3643 tinymce/config.php:3787
+msgid "Player Width"
+msgstr ""
+
+#: tinymce/config.php:3645 tinymce/config.php:3789
+msgid "Enter only number in pixels. Ex: 700"
+msgstr ""
+
+#: tinymce/config.php:3655 tinymce/config.php:3799
+msgid "Player Height"
+msgstr ""
+
+#: tinymce/config.php:3657 tinymce/config.php:3801
+msgid "Enter only number in pixels. Ex: 350"
+msgstr ""
+
+#: tinymce/config.php:3667 tinymce/config.php:3811
+msgid "Select to autoplay the video"
+msgstr ""
+
+#: tinymce/config.php:3687
+msgid "Select the color for video controls"
+msgstr ""
+
+#: tinymce/config.php:3695 tinymce/config.php:3827
+msgid "Fit Video"
+msgstr ""
+
+#: tinymce/config.php:3697 tinymce/config.php:3829
+msgid "Select to show your video fluid."
+msgstr ""
+
+#: tinymce/config.php:3713
+msgid "Show Title"
+msgstr ""
+
+#: tinymce/config.php:3715
+msgid "Select to show title in video"
+msgstr ""
+
+#: tinymce/config.php:3731
+msgid "Show Byline"
+msgstr ""
+
+#: tinymce/config.php:3733
+msgid "Select to show user byline in video"
+msgstr ""
+
+#: tinymce/config.php:3749
+msgid "Vimeo Shortcode"
+msgstr ""
+
+#: tinymce/config.php:3777
+msgid ""
+"For example the Video ID for <br />http://www.youtube.com/R4-YdC5N6Lo is R4-"
+"YdC5N6Lo"
+msgstr ""
+
+#: tinymce/config.php:3845
+msgid "Related Videos"
+msgstr ""
+
+#: tinymce/config.php:3847
+msgid "Select to show related videos"
+msgstr ""
+
+#: tinymce/config.php:3863
+msgid "Youtube Shortcode"
+msgstr ""
+
+#: tinymce/config.php:3889
+msgid "Show as Slider"
+msgstr ""
+
+#: tinymce/config.php:3891
+msgid "Choose to show counters in carousel slider."
+msgstr ""
+
+#: tinymce/config.php:3911
+msgid "Enter Number of items to Display"
+msgstr ""
+
+#: tinymce/config.php:4047
+msgid "Select the width of the counter."
+msgstr ""
+
+#: tinymce/config.php:4067
+msgid "Circle Size"
+msgstr ""
+
+#: tinymce/config.php:4069
+msgid "Enter Circle Size. Ex: 220 or 150 ( Only Numbers )."
+msgstr ""
+
+#: tinymce/config.php:4079
+msgid "Circle Line Width"
+msgstr ""
+
+#: tinymce/config.php:4081
+msgid "Enter Circle Line Width. Ex: 15 ( Only Numbers )."
+msgstr ""
+
+#: tinymce/config.php:4091
+msgid "Counter Text Color"
+msgstr ""
+
+#: tinymce/config.php:4093
+msgid "Choose Counter Text Color."
+msgstr ""
+
+#: tinymce/config.php:4103
+msgid "Counter Description Color"
+msgstr ""
+
+#: tinymce/config.php:4105
+msgid "Choose Counter Description Color."
+msgstr ""
+
+#: tinymce/config.php:4123
+msgid "Enter counter value. Only from 1 to 100."
+msgstr ""
+
+#: tinymce/config.php:4133
+msgid "Counter Bar Color"
+msgstr ""
+
+#: tinymce/config.php:4135
+msgid "Choose Counter Bar Color."
+msgstr ""
+
+#: tinymce/config.php:4145
+msgid "Enter Title"
+msgstr ""
+
+#: tinymce/config.php:4147
+msgid "Enter counter title."
+msgstr ""
+
+#: tinymce/config.php:4159
+msgid "Enter the description for counter."
+msgstr ""
+
+#: tinymce/config.php:4169 tinymce/config.php:4333
+msgid "Extra Class"
+msgstr ""
+
+#: tinymce/config.php:4171
+msgid "Enter extra class for counter item."
+msgstr ""
+
+#: tinymce/config.php:4209
+msgid "Insert Circle Counters Shortcode"
+msgstr ""
+
+#: tinymce/config.php:4235
+msgid "Counter Type"
+msgstr ""
+
+#: tinymce/config.php:4237
+msgid "Choose how to display the counter."
+msgstr ""
+
+#: tinymce/config.php:4255
+msgid "Year"
+msgstr ""
+
+#: tinymce/config.php:4257
+msgid "Enter Counter Year. Ex: 2015"
+msgstr ""
+
+#: tinymce/config.php:4267
+msgid "Month"
+msgstr ""
+
+#: tinymce/config.php:4269
+msgid "Enter Counter Month. Ex: 6"
+msgstr ""
+
+#: tinymce/config.php:4279
+msgid "Date"
+msgstr ""
+
+#: tinymce/config.php:4281
+msgid "Enter Counter Date. Ex: 20"
+msgstr ""
+
+#: tinymce/config.php:4291
+msgid "Choose to show button for Counter."
+msgstr ""
+
+#: tinymce/config.php:4335
+msgid "Enter extra class for counter."
+msgstr ""
+
+#: tinymce/config.php:4367
+msgid "Insert Day Counter Shortcode"
+msgstr ""
+
+#: tinymce/config.php:4391
+msgid "HTML Tag"
+msgstr ""
+
+#: tinymce/config.php:4393
+msgid "Choose HTML tag to insert."
+msgstr ""
+
+#: tinymce/config.php:4415
+msgid "Class"
+msgstr ""
+
+#: tinymce/config.php:4417
+msgid "Enter class name for HTML tag."
+msgstr ""
+
+#: tinymce/config.php:4427
+msgid "Enter Content"
+msgstr ""
+
+#: tinymce/config.php:4437
+msgid "HTML Block Shortcode"
+msgstr ""
+
+#: tinymce/config.php:4462
+msgid "Class for Fullwidth Box"
+msgstr ""
+
+#: tinymce/config.php:4464
+msgid "Enter class for Fullwidth Box"
+msgstr ""
+
+#: tinymce/config.php:4476
+msgid "Fullwidth Box Background Image"
+msgstr ""
+
+#: tinymce/config.php:4478
+msgid "Upload an image to use background for Fullwidth Box."
+msgstr ""
+
+#: tinymce/config.php:4490
+msgid "Choose background repeat for Fullwidth Box."
+msgstr ""
+
+#: tinymce/config.php:4514
+msgid "Choose background attachment for Fullwidth Box."
+msgstr ""
+
+#: tinymce/config.php:4532
+msgid "Fullwidth Box Background Color"
+msgstr ""
+
+#: tinymce/config.php:4534
+msgid "Choose Fullwidth Box Background Color."
+msgstr ""
+
+#: tinymce/config.php:4544
+msgid "Overlay"
+msgstr ""
+
+#: tinymce/config.php:4546
+msgid "Choose background have Overlay color."
+msgstr ""
+
+#: tinymce/config.php:4564
+msgid "Background Overlay Color"
+msgstr ""
+
+#: tinymce/config.php:4566
+msgid "Choose Fullwidth Background Overlay Color."
+msgstr ""
+
+#: tinymce/config.php:4574
+msgid "Overlay Opacity"
+msgstr ""
+
+#: tinymce/config.php:4576
+msgid "Enter Overlay Opacity. Values from 0.1 to 1. Ex: 0.1 or 0.3 or 1."
+msgstr ""
+
+#: tinymce/config.php:4586
+msgid "Padding Top"
+msgstr ""
+
+#: tinymce/config.php:4588
+msgid "Enter Padding Top for Section. Ex: 20px"
+msgstr ""
+
+#: tinymce/config.php:4598
+msgid "Padding Bottom"
+msgstr ""
+
+#: tinymce/config.php:4600
+msgid "Enter Padding Bottom for Section. Ex: 20px"
+msgstr ""
+
+#: tinymce/config.php:4614
+msgid "Enter content"
+msgstr ""
+
+#: tinymce/config.php:4622
+msgid "Fullwidth Box Shortcode"
+msgstr ""
+
+#: widgets/category_posts_widget.php:13
+msgid "Displays category posts."
+msgstr ""
+
+#: widgets/category_posts_widget.php:21
+msgid "Category Posts"
+msgstr ""
+
+#: widgets/category_posts_widget.php:163 widgets/counters_widget.php:137
+#: widgets/mailchimp_widget.php:173 widgets/popular_posts_widget.php:195
+#: widgets/social_link_widget.php:279 widgets/tweets_widget.php:293
+msgid "Title:"
+msgstr ""
+
+#: widgets/category_posts_widget.php:171 widgets/popular_posts_widget.php:203
+msgid "Choose Category:"
+msgstr ""
+
+#: widgets/category_posts_widget.php:201 widgets/popular_posts_widget.php:233
+msgid "Number of posts to show:"
+msgstr ""
+
+#: widgets/category_posts_widget.php:217
+msgid "Button Text:"
+msgstr ""
+
+#: widgets/counters_widget.php:13
+msgid "Display counters."
+msgstr ""
+
+#: widgets/counters_widget.php:21
+msgid "Counters"
+msgstr ""
+
+#: widgets/counters_widget.php:37
+msgid "Total Downloads : "
+msgstr ""
+
+#: widgets/counters_widget.php:41
+msgid "Happy Clients : "
+msgstr ""
+
+#: widgets/counters_widget.php:145
+msgid "Counter Label 1:"
+msgstr ""
+
+#: widgets/counters_widget.php:153
+msgid "Counter Value 1:"
+msgstr ""
+
+#: widgets/counters_widget.php:161
+msgid "Counter Label 2:"
+msgstr ""
+
+#: widgets/counters_widget.php:169
+msgid "Counter Value 2:"
+msgstr ""
+
+#: widgets/instagram_widget.php:13
+msgid "Displays your latest Instagram photos"
+msgstr ""
+
+#: widgets/instagram_widget.php:81
+msgid "Follow Me!"
+msgstr ""
+
+#: widgets/instagram_widget.php:96
+msgid "Access Token"
+msgstr ""
+
+#: widgets/instagram_widget.php:97
+msgid "Get instagram access token here"
+msgstr ""
+
+#: widgets/instagram_widget.php:97
+msgid "Get Access Token"
+msgstr ""
+
+#: widgets/instagram_widget.php:105
+msgid "Number of photos"
+msgstr ""
+
+#: widgets/instagram_widget.php:106
+msgid ""
+"Image limit may vari by public user showing limit. Maximum 10 to 12 is "
+"possible to get. Instagram restrict other user photos."
+msgstr ""
+
+#: widgets/instagram_widget.php:110
+msgid "Photo size"
+msgstr ""
+
+#: widgets/instagram_widget.php:112
+msgid "Thumbnail"
+msgstr ""
+
+#: widgets/instagram_widget.php:113
+msgid "Small"
+msgstr ""
+
+#: widgets/instagram_widget.php:114 widgets/social_link_widget.php:309
+msgid "Large"
+msgstr ""
+
+#: widgets/instagram_widget.php:119
+msgid "Columns"
+msgstr ""
+
+#: widgets/instagram_widget.php:131
+msgid "Open links in"
+msgstr ""
+
+#: widgets/instagram_widget.php:133
+msgid "Current window (_self)"
+msgstr ""
+
+#: widgets/instagram_widget.php:134
+msgid "New window (_blank)"
+msgstr ""
+
+#: widgets/instagram_widget.php:139
+msgid "Link text"
+msgstr ""
+
+#: widgets/mailchimp_widget.php:19
+msgid "Displays subscribe form for Mailchimp Lists."
+msgstr ""
+
+#: widgets/mailchimp_widget.php:27
+msgid "Mailchimp Subscribe Form"
+msgstr ""
+
+#: widgets/mailchimp_widget.php:79 widgets/mailchimp_widget.php:91
+msgid "The email address is required"
+msgstr ""
+
+#: widgets/mailchimp_widget.php:81 widgets/mailchimp_widget.php:91
+msgid "The input is not a valid email address"
+msgstr ""
+
+#: widgets/mailchimp_widget.php:181
+msgid "Description:"
+msgstr ""
+
+#: widgets/mailchimp_widget.php:189
+msgid "Choose Mailing List:"
+msgstr ""
+
+#: widgets/popular_posts_widget.php:13
+msgid "Displays latest posts based on categories."
+msgstr ""
+
+#: widgets/popular_posts_widget.php:21
+msgid "Popular Posts"
+msgstr ""
+
+#: widgets/popular_posts_widget.php:243
+msgid "Show Date"
+msgstr ""
+
+#: widgets/popular_posts_widget.php:251
+msgid "Show Excerpt"
+msgstr ""
+
+#: widgets/popular_posts_widget.php:259
+msgid "Show Thumbnail Image"
+msgstr ""
+
+#: widgets/social_link_widget.php:13
+msgid "Display your social links."
+msgstr ""
+
+#: widgets/social_link_widget.php:21
+msgid "Social Links"
+msgstr ""
+
+#: widgets/social_link_widget.php:287
+msgid "Alignment:"
+msgstr ""
+
+#: widgets/social_link_widget.php:303
+msgid "Icon Size:"
+msgstr ""
+
+#: widgets/social_link_widget.php:317
+msgid "Icon Type:"
+msgstr ""
+
+#: widgets/social_link_widget.php:335
+msgid "Facebook URL:"
+msgstr ""
+
+#: widgets/social_link_widget.php:343
+msgid "Twitter URL:"
+msgstr ""
+
+#: widgets/social_link_widget.php:351
+msgid "Pinterest URL:"
+msgstr ""
+
+#: widgets/social_link_widget.php:359
+msgid "Linkedin URL:"
+msgstr ""
+
+#: widgets/social_link_widget.php:367
+msgid "Youtube URL:"
+msgstr ""
+
+#: widgets/social_link_widget.php:375
+msgid "Rss URL:"
+msgstr ""
+
+#: widgets/social_link_widget.php:383
+msgid "Tumblr URL:"
+msgstr ""
+
+#: widgets/social_link_widget.php:391
+msgid "Dribbble URL:"
+msgstr ""
+
+#: widgets/social_link_widget.php:399
+msgid "Flickr URL:"
+msgstr ""
+
+#: widgets/social_link_widget.php:407
+msgid "Instagram URL:"
+msgstr ""
+
+#: widgets/social_link_widget.php:415
+msgid "Vimeo URL:"
+msgstr ""
+
+#: widgets/social_link_widget.php:423
+msgid "Skype URL:"
+msgstr ""
+
+#: widgets/social_link_widget.php:431
+msgid "Yahoo URL:"
+msgstr ""
+
+#: widgets/tabs_widget.php:13
+msgid "Displays popular posts, recent posts and comments in tabs."
+msgstr ""
+
+#: widgets/tabs_widget.php:21
+msgid "Tabs"
+msgstr ""
+
+#: widgets/tabs_widget.php:65
+msgid "Popular"
+msgstr ""
+
+#: widgets/tabs_widget.php:71
+msgid "Recent"
+msgstr ""
+
+#: widgets/tabs_widget.php:309
+msgid "Show Popular Posts"
+msgstr ""
+
+#: widgets/tabs_widget.php:317
+msgid "Show Recent Posts"
+msgstr ""
+
+#: widgets/tabs_widget.php:331
+msgid "Number of popular posts:"
+msgstr ""
+
+#: widgets/tabs_widget.php:339
+msgid "Number of recent posts:"
+msgstr ""
+
+#: widgets/tabs_widget.php:347
+msgid "Number of comments:"
+msgstr ""
+
+#: widgets/tweets_widget.php:195
+msgid "second"
+msgstr ""
+
+#: widgets/tweets_widget.php:195
+msgid "minute"
+msgstr ""
+
+#: widgets/tweets_widget.php:195
+msgid "hour"
+msgstr ""
+
+#: widgets/tweets_widget.php:195
+msgid "day"
+msgstr ""
+
+#: widgets/tweets_widget.php:195
+msgid "week"
+msgstr ""
+
+#: widgets/tweets_widget.php:195
+msgid "month"
+msgstr ""
+
+#: widgets/tweets_widget.php:195
+msgid "year"
+msgstr ""
+
+#: widgets/tweets_widget.php:195
+msgid "decade"
+msgstr ""
+
+#: widgets/tweets_widget.php:207
+msgid "ago"
+msgstr ""
+
+#: widgets/tweets_widget.php:225
+msgid "s"
+msgstr ""
+
+#: widgets/tweets_widget.php:301
+msgid "Twitter ID:"
+msgstr ""
+
+#: widgets/tweets_widget.php:309
+msgid "Consumer Key:"
+msgstr ""
+
+#: widgets/tweets_widget.php:317
+msgid "Consumer Secret:"
+msgstr ""
+
+#: widgets/tweets_widget.php:325
+msgid "Access Token:"
+msgstr ""
+
+#: widgets/tweets_widget.php:333
+msgid "Access Token Secret:"
+msgstr ""
+
+#: widgets/tweets_widget.php:341
+msgid "Number of Tweets:"
+msgstr ""
+
+#: widgets/tweets_widget.php:349
+msgid "Number of Visible Tweets:"
+msgstr ""

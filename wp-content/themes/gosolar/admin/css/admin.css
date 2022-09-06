@@ -1,0 +1,98 @@
+#update-nag, .update-nag {
+	display: block;
+}
+.field-zozo-megamenu-icon .edit-menu-item-zozo-megamenu-icon {
+	font-family: 'FontAwesome';
+}
+.redux-main #zozo_options-zozo_header_type img {
+    width: 100% !important;
+}
+#zozo_options-zozo_header_type.redux-container-image_select ul.redux-image-select li {
+	display: block;
+}
+.redux-container-sorter #zozo_header_top_bar_left_enabled, .redux-container-sorter #zozo_header_top_bar_right_enabled, 
+.redux-container-sorter #zozo_header_1_elements_config_enabled,
+.redux-container-sorter #zozo_header_2_elements_config_enabled,
+.redux-container-sorter #zozo_header_3_elements_config_enabled,
+.redux-container-sorter #zozo_header_4_logo_bar_config_enabled,
+.redux-container-sorter #zozo_header_6_logo_bar_config_enabled,
+.redux-container-sorter #zozo_header_9_elements_config_enabled,
+.redux-container-sorter #zozo_header_10_elements_config_enabled,
+.redux-container-sorter #zozo_header_11_logo_bar_config_enabled,
+.redux-container-sorter #zozo_header_12_elements_config_enabled,
+.redux-container-sorter #zozo_header_4_left_config_enabled, .redux-container-sorter #zozo_header_4_right_config_enabled,
+.redux-container-sorter #zozo_header_5_left_config_enabled, .redux-container-sorter #zozo_header_5_right_config_enabled,
+.redux-container-sorter #zozo_header_6_left_config_enabled, .redux-container-sorter #zozo_header_6_right_config_enabled,
+.redux-container-sorter #zozo_header_11_left_config_enabled, .redux-container-sorter #zozo_header_11_right_config_enabled,
+.redux-container-sorter #zozo_header_right_alt_config_enabled {
+	margin-bottom: 15px;
+}
+.redux-container-sorter #zozo_header_top_bar_left_enabled, .redux-container-sorter #zozo_header_top_bar_left_disabled,
+.redux-container-sorter #zozo_header_top_bar_right_enabled, .redux-container-sorter #zozo_header_top_bar_right_disabled,
+.redux-container-sorter #zozo_header_1_elements_config_enabled, .redux-container-sorter #zozo_header_1_elements_config_disabled,
+.redux-container-sorter #zozo_header_2_elements_config_enabled, .redux-container-sorter #zozo_header_2_elements_config_disabled,
+.redux-container-sorter #zozo_header_3_elements_config_enabled, .redux-container-sorter #zozo_header_3_elements_config_disabled,
+.redux-container-sorter #zozo_header_4_logo_bar_config_enabled, .redux-container-sorter #zozo_header_4_logo_bar_config_disabled,
+.redux-container-sorter #zozo_header_6_logo_bar_config_enabled, .redux-container-sorter #zozo_header_6_logo_bar_config_disabled,
+.redux-container-sorter #zozo_header_9_elements_config_enabled, .redux-container-sorter #zozo_header_9_elements_config_disabled,
+.redux-container-sorter #zozo_header_10_elements_config_enabled, .redux-container-sorter #zozo_header_10_elements_config_disabled,
+.redux-container-sorter #zozo_header_11_logo_bar_config_enabled, .redux-container-sorter #zozo_header_11_logo_bar_config_disabled,
+.redux-container-sorter #zozo_header_12_elements_config_enabled, .redux-container-sorter #zozo_header_12_elements_config_disabled,
+.redux-container-sorter #zozo_header_4_left_config_enabled, .redux-container-sorter #zozo_header_4_left_config_disabled,
+.redux-container-sorter #zozo_header_5_left_config_enabled, .redux-container-sorter #zozo_header_5_left_config_disabled,
+.redux-container-sorter #zozo_header_6_left_config_enabled, .redux-container-sorter #zozo_header_6_left_config_disabled,
+.redux-container-sorter #zozo_header_11_left_config_enabled, .redux-container-sorter #zozo_header_11_left_config_disabled,
+.redux-container-sorter #zozo_header_4_right_config_enabled, .redux-container-sorter #zozo_header_4_right_config_disabled,
+.redux-container-sorter #zozo_header_5_right_config_enabled, .redux-container-sorter #zozo_header_5_right_config_disabled,
+.redux-container-sorter #zozo_header_6_right_config_enabled, .redux-container-sorter #zozo_header_6_right_config_disabled,
+.redux-container-sorter #zozo_header_11_right_config_enabled, .redux-container-sorter #zozo_header_11_right_config_disabled,
+.redux-container-sorter #zozo_header_right_alt_config_enabled, .redux-container-sorter #zozo_header_right_alt_config_disabled {
+	width: 90%;
+}
+.redux-container-sorter #zozo_header_top_bar_left_enabled li, .redux-container-sorter #zozo_header_top_bar_left_disabled li,
+.redux-container-sorter #zozo_header_top_bar_right_enabled li, .redux-container-sorter #zozo_header_top_bar_right_disabled li,
+.redux-container-sorter #zozo_header_1_elements_config_enabled li, .redux-container-sorter #zozo_header_1_elements_config_disabled li,
+.redux-container-sorter #zozo_header_2_elements_config_enabled li, .redux-container-sorter #zozo_header_2_elements_config_disabled li,
+.redux-container-sorter #zozo_header_3_elements_config_enabled li, .redux-container-sorter #zozo_header_3_elements_config_disabled li,
+.redux-container-sorter #zozo_header_4_logo_bar_config_enabled li, .redux-container-sorter #zozo_header_4_logo_bar_config_disabled li,
+.redux-container-sorter #zozo_header_6_logo_bar_config_enabled li, .redux-container-sorter #zozo_header_6_logo_bar_config_disabled li,
+.redux-container-sorter #zozo_header_9_elements_config_enabled li, .redux-container-sorter #zozo_header_9_elements_config_disabled li,
+.redux-container-sorter #zozo_header_10_elements_config_enabled li, .redux-container-sorter #zozo_header_10_elements_config_disabled li,
+.redux-container-sorter #zozo_header_11_logo_bar_config_enabled li, .redux-container-sorter #zozo_header_11_logo_bar_config_disabled li,
+.redux-container-sorter #zozo_header_12_elements_config_enabled li, .redux-container-sorter #zozo_header_12_elements_config_disabled li,
+.redux-container-sorter #zozo_header_4_left_config_enabled li, .redux-container-sorter #zozo_header_4_left_config_disabled li,
+.redux-container-sorter #zozo_header_5_left_config_enabled li, .redux-container-sorter #zozo_header_5_left_config_disabled li,
+.redux-container-sorter #zozo_header_6_left_config_enabled li, .redux-container-sorter #zozo_header_6_left_config_disabled li,
+.redux-container-sorter #zozo_header_11_left_config_enabled li, .redux-container-sorter #zozo_header_11_left_config_disabled li,
+.redux-container-sorter #zozo_header_4_right_config_enabled li, .redux-container-sorter #zozo_header_4_right_config_disabled li,
+.redux-container-sorter #zozo_header_5_right_config_enabled li, .redux-container-sorter #zozo_header_5_right_config_disabled li,
+.redux-container-sorter #zozo_header_6_right_config_enabled li, .redux-container-sorter #zozo_header_6_right_config_disabled li,
+.redux-container-sorter #zozo_header_11_right_config_enabled li, .redux-container-sorter #zozo_header_11_right_config_disabled li,
+.redux-container-sorter #zozo_header_right_alt_config_enabled li, .redux-container-sorter #zozo_header_right_alt_config_disabled li {
+    float: left;
+    margin-right: 10px;
+    width: auto;
+}
+.redux-container-sorter ul li.placeholder {
+	width: 120px !important;
+}
+.vc_colored-dropdown .primary-bg {
+	background: #0099CC !important;
+	color: #ffffff !important;
+}
+/* ===============================================
+ * Visual Composer
+ * =============================================== */
+.wpb-layout-element-button .zozo-vc-icon {
+	background-image: url(../images/vc-icon.png);
+}
+.zozo-vc-icon .wpb_element_wrapper,
+.vc_element-icon.zozo-vc-icon {
+	background-image: url(../images/vc-icon.png);
+}
+.zozo-vc-icon.wpb_content_element > .wpb_element_wrapper {
+    background-image: url(../images/vc-icon.png);
+}
+.wpb_my_bartag[data-element_type=zozo-vc-icon] {
+   background-image: url(../images/vc-icon.png);
+}

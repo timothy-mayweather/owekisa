@@ -1,0 +1,37 @@
+/*
+ * Zozo Megamenu Framework CSS
+ * 
+ */
+.menu-item-settings{
+	height:auto;
+	overflow:hidden;
+} 
+
+.menu-item-megamenu,
+.menu-item-megafull,
+.menu-item-bgimg,
+.menu-item-bgpat,
+.menu-item-megacols,
+.menu-item-megawidget,
+.menu-item-megatithide,
+.menu-item-megatype
+{
+	display: none;
+}
+.menu-item-depth-0 .menu-item-megamenu,
+.menu-item-depth-0.zozo-megamenu-active .menu-item-megafull,
+.menu-item-depth-0.zozo-megamenu-active .menu-item-bgimg,
+.menu-item-depth-0.zozo-megamenu-active .menu-item-bgpat,
+.menu-item-depth-0.zozo-megamenu-active .menu-item-megatype,
+.menu-item-depth-1.zozo-megamenu-active .menu-item-megacols,
+.menu-item-depth-1.zozo-megamenu-active .menu-item-megawidget,
+.menu-item-depth-1.zozo-megamenu-active .menu-item-megatithide
+{
+	display: block;
+}
+
+.menu-item-depth-0.zozo-megatype-active .menu-item-megacols,
+.menu-item-depth-1.zozo-megatype-active .menu-item-megawidget
+{
+	display:none;
+}
